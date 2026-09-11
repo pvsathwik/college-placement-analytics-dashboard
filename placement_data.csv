@@ -1,0 +1,1501 @@
+Student_ID,Student_Name,Branch,CGPA,Skills,Company,Salary_LPA,Placement_Status,Year
+STU0001,Student 0001,EEE,8.11,C++,Not Placed,0.0,Not Placed,2025
+STU0002,Student 0002,ECE,7.0,"JavaScript, Excel, Python, C++",Not Placed,0.0,Not Placed,2024
+STU0003,Student 0003,CSE,9.78,"SQL, AutoCAD, C++, Data Analysis",Accenture,8.91,Placed,2026
+STU0004,Student 0004,CIVIL,5.79,"AutoCAD, JavaScript, React, Python",Not Placed,0.0,Not Placed,2023
+STU0005,Student 0005,ECE,7.79,"Java, Python, C++",TCS,7.3,Placed,2023
+STU0006,Student 0006,EEE,8.64,"Python, Java",Cognizant,5.9,Placed,2024
+STU0007,Student 0007,ISE,6.3,"Excel, AWS, AutoCAD",Not Placed,0.0,Not Placed,2023
+STU0008,Student 0008,ME,6.23,"React, Machine Learning, AutoCAD",Accenture,5.34,Placed,2025
+STU0009,Student 0009,CIVIL,7.68,"JavaScript, React, AWS, Excel",Capgemini,7.71,Placed,2022
+STU0010,Student 0010,ECE,6.96,C++,Infosys,5.12,Placed,2022
+STU0011,Student 0011,EEE,8.82,"C++, React, JavaScript",Not Placed,0.0,Not Placed,2024
+STU0012,Student 0012,ME,9.22,"Excel, JavaScript",Microsoft,18.32,Placed,2025
+STU0013,Student 0013,ECE,9.34,"SQL, Data Analysis, C++",Capgemini,6.67,Placed,2023
+STU0014,Student 0014,ME,6.26,"Machine Learning, SQL, C++, React",Not Placed,0.0,Not Placed,2025
+STU0015,Student 0015,CSE,7.6,"Data Analysis, C++, Java, React",Amazon,14.02,Placed,2025
+STU0016,Student 0016,ECE,5.56,"Machine Learning, Python, AutoCAD",Not Placed,0.0,Not Placed,2023
+STU0017,Student 0017,CIVIL,8.14,Java,Google,18.25,Placed,2026
+STU0018,Student 0018,ISE,6.78,Java,Wipro,5.17,Placed,2023
+STU0019,Student 0019,ME,9.43,"SQL, JavaScript, C++, Java",Oracle,11.1,Placed,2026
+STU0020,Student 0020,EEE,6.52,"SQL, AutoCAD, C++, Excel",Google,16.46,Placed,2025
+STU0021,Student 0021,ISE,9.04,"Data Analysis, Excel, C++",Accenture,8.63,Placed,2022
+STU0022,Student 0022,ECE,8.16,"AWS, C++, Data Analysis",Wipro,5.97,Placed,2023
+STU0023,Student 0023,EEE,6.87,Excel,Not Placed,0.0,Not Placed,2022
+STU0024,Student 0024,CSE,6.27,"Data Analysis, Excel, JavaScript",Not Placed,0.0,Not Placed,2022
+STU0025,Student 0025,CIVIL,7.96,"Excel, SQL, Java, Machine Learning",Microsoft,26.59,Placed,2025
+STU0026,Student 0026,CIVIL,6.92,"React, SQL, Data Analysis, Python",Tech Mahindra,5.2,Placed,2024
+STU0027,Student 0027,EEE,9.4,"AutoCAD, Data Analysis, Python, SQL",TCS,6.19,Placed,2025
+STU0028,Student 0028,ME,7.53,"Machine Learning, AWS, JavaScript, Java",Not Placed,0.0,Not Placed,2023
+STU0029,Student 0029,ISE,8.03,Machine Learning,Capgemini,7.16,Placed,2025
+STU0030,Student 0030,ISE,8.2,"SQL, Excel, React, AutoCAD",Wipro,5.34,Placed,2022
+STU0031,Student 0031,ME,7.5,Python,Amazon,10.69,Placed,2023
+STU0032,Student 0032,CIVIL,6.02,C++,Infosys,4.79,Placed,2025
+STU0033,Student 0033,ME,6.15,"Machine Learning, C++",Not Placed,0.0,Not Placed,2024
+STU0034,Student 0034,EEE,8.34,"Data Analysis, AutoCAD, Java",IBM,11.12,Placed,2024
+STU0035,Student 0035,EEE,7.11,React,Not Placed,0.0,Not Placed,2025
+STU0036,Student 0036,CIVIL,8.44,"Excel, C++",Wipro,5.18,Placed,2023
+STU0037,Student 0037,EEE,9.43,React,Capgemini,6.44,Placed,2022
+STU0038,Student 0038,EEE,7.55,Python,Wipro,4.14,Placed,2022
+STU0039,Student 0039,CIVIL,6.16,"AWS, Data Analysis, JavaScript, AutoCAD",Not Placed,0.0,Not Placed,2024
+STU0040,Student 0040,CIVIL,7.62,"Python, Java, SQL",Microsoft,25.69,Placed,2022
+STU0041,Student 0041,EEE,8.62,React,Capgemini,8.0,Placed,2022
+STU0042,Student 0042,ECE,9.29,"AutoCAD, React, AWS",TCS,6.58,Placed,2026
+STU0043,Student 0043,ECE,6.14,AutoCAD,Not Placed,0.0,Not Placed,2026
+STU0044,Student 0044,ECE,9.36,SQL,TCS,5.39,Placed,2025
+STU0045,Student 0045,ME,8.59,AutoCAD,TCS,4.57,Placed,2022
+STU0046,Student 0046,CSE,8.2,SQL,Accenture,7.49,Placed,2023
+STU0047,Student 0047,ME,9.16,Machine Learning,IBM,9.2,Placed,2023
+STU0048,Student 0048,EEE,5.64,"React, C++, AWS, Java",Not Placed,0.0,Not Placed,2025
+STU0049,Student 0049,ISE,8.06,"AutoCAD, Data Analysis, Excel, JavaScript",Not Placed,0.0,Not Placed,2022
+STU0050,Student 0050,ISE,9.81,JavaScript,Amazon,19.04,Placed,2025
+STU0051,Student 0051,ISE,6.7,"AutoCAD, C++",Bosch,11.2,Placed,2026
+STU0052,Student 0052,CSE,7.97,"JavaScript, AutoCAD",Bosch,7.23,Placed,2026
+STU0053,Student 0053,EEE,7.48,SQL,TCS,4.38,Placed,2022
+STU0054,Student 0054,EEE,6.89,"AWS, SQL, Excel, Python",Wipro,6.95,Placed,2023
+STU0055,Student 0055,CIVIL,5.76,"C++, JavaScript, SQL, AWS",Not Placed,0.0,Not Placed,2022
+STU0056,Student 0056,CSE,8.86,"Machine Learning, React",Amazon,22.97,Placed,2026
+STU0057,Student 0057,ME,5.86,"Machine Learning, Java, Data Analysis, Python",Not Placed,0.0,Not Placed,2025
+STU0058,Student 0058,ECE,8.6,"AutoCAD, Excel, JavaScript",Not Placed,0.0,Not Placed,2024
+STU0059,Student 0059,EEE,6.05,"Python, C++, Data Analysis",Tech Mahindra,4.22,Placed,2025
+STU0060,Student 0060,ISE,7.01,Machine Learning,Not Placed,0.0,Not Placed,2022
+STU0061,Student 0061,ECE,7.83,"SQL, AWS, Data Analysis, JavaScript",Not Placed,0.0,Not Placed,2022
+STU0062,Student 0062,CIVIL,6.23,"React, AWS",Capgemini,7.72,Placed,2022
+STU0063,Student 0063,CSE,9.99,C++,Oracle,16.79,Placed,2025
+STU0064,Student 0064,CSE,9.18,"JavaScript, React, Machine Learning",Deloitte,13.41,Placed,2026
+STU0065,Student 0065,CIVIL,7.54,"React, SQL",Infosys,6.83,Placed,2022
+STU0066,Student 0066,ME,7.21,"Machine Learning, Excel, JavaScript",IBM,6.15,Placed,2025
+STU0067,Student 0067,CSE,9.05,"C++, JavaScript, React",Not Placed,0.0,Not Placed,2026
+STU0068,Student 0068,EEE,6.16,"Java, C++",Not Placed,0.0,Not Placed,2023
+STU0069,Student 0069,ECE,7.32,"Data Analysis, Python, AWS, AutoCAD",Deloitte,8.31,Placed,2023
+STU0070,Student 0070,ISE,9.37,"Machine Learning, AutoCAD, Excel",Deloitte,10.25,Placed,2025
+STU0071,Student 0071,CIVIL,6.68,"JavaScript, C++, SQL, Excel",Microsoft,27.88,Placed,2022
+STU0072,Student 0072,ISE,6.72,"Python, C++",Not Placed,0.0,Not Placed,2026
+STU0073,Student 0073,ISE,9.2,JavaScript,Oracle,8.87,Placed,2024
+STU0074,Student 0074,ME,8.99,Python,Not Placed,0.0,Not Placed,2025
+STU0075,Student 0075,ME,5.63,"C++, Java, Python",IBM,11.52,Placed,2026
+STU0076,Student 0076,ISE,5.8,"Data Analysis, Machine Learning, Excel, React",Not Placed,0.0,Not Placed,2022
+STU0077,Student 0077,ECE,8.94,C++,Wipro,5.95,Placed,2025
+STU0078,Student 0078,EEE,6.78,React,Cognizant,7.21,Placed,2023
+STU0079,Student 0079,EEE,7.4,C++,Microsoft,32.88,Placed,2023
+STU0080,Student 0080,EEE,7.34,"React, Machine Learning, C++",Capgemini,7.15,Placed,2023
+STU0081,Student 0081,ECE,8.54,"C++, JavaScript, SQL, Machine Learning",Bosch,12.24,Placed,2025
+STU0082,Student 0082,EEE,7.68,"Machine Learning, React, Data Analysis",Infosys,8.21,Placed,2022
+STU0083,Student 0083,CSE,6.51,Data Analysis,L&T,8.7,Placed,2026
+STU0084,Student 0084,ME,8.97,"Excel, SQL, JavaScript",Cognizant,5.18,Placed,2024
+STU0085,Student 0085,ME,7.83,"JavaScript, C++",Not Placed,0.0,Not Placed,2025
+STU0086,Student 0086,ME,9.01,"Excel, C++, AutoCAD, AWS",Google,24.14,Placed,2023
+STU0087,Student 0087,ECE,8.37,"Data Analysis, JavaScript, Machine Learning, C++",Not Placed,0.0,Not Placed,2023
+STU0088,Student 0088,CIVIL,8.4,React,Not Placed,0.0,Not Placed,2024
+STU0089,Student 0089,EEE,8.63,SQL,Capgemini,6.24,Placed,2026
+STU0090,Student 0090,ECE,7.65,Java,Not Placed,0.0,Not Placed,2025
+STU0091,Student 0091,EEE,8.46,"Machine Learning, AutoCAD",TCS,6.57,Placed,2025
+STU0092,Student 0092,EEE,6.07,"C++, AWS",Cognizant,5.86,Placed,2023
+STU0093,Student 0093,ISE,5.62,"Machine Learning, AutoCAD, SQL, Java",Not Placed,0.0,Not Placed,2026
+STU0094,Student 0094,EEE,6.65,"Python, Java, SQL",Not Placed,0.0,Not Placed,2022
+STU0095,Student 0095,ECE,7.17,"Python, AWS, JavaScript, C++",Not Placed,0.0,Not Placed,2025
+STU0096,Student 0096,ME,7.75,"JavaScript, AutoCAD, AWS, Java",Deloitte,10.43,Placed,2022
+STU0097,Student 0097,EEE,6.78,"AWS, JavaScript, SQL, Excel",Infosys,5.94,Placed,2024
+STU0098,Student 0098,ECE,8.79,"AutoCAD, Excel, C++, Python",Oracle,14.22,Placed,2026
+STU0099,Student 0099,CIVIL,8.5,"Java, Machine Learning, SQL",Amazon,13.21,Placed,2023
+STU0100,Student 0100,CSE,6.87,"Excel, C++, AutoCAD, AWS",Not Placed,0.0,Not Placed,2023
+STU0101,Student 0101,ME,6.35,"SQL, Excel",Wipro,6.52,Placed,2024
+STU0102,Student 0102,ECE,8.42,"C++, Java, JavaScript",Cognizant,5.93,Placed,2026
+STU0103,Student 0103,EEE,9.54,"SQL, Python, Machine Learning",Deloitte,10.54,Placed,2022
+STU0104,Student 0104,CIVIL,5.98,"Excel, Data Analysis, SQL, AutoCAD",Deloitte,11.37,Placed,2023
+STU0105,Student 0105,ISE,7.56,"React, Excel",Not Placed,0.0,Not Placed,2023
+STU0106,Student 0106,ISE,7.97,"JavaScript, AWS, Java, Excel",Microsoft,34.3,Placed,2025
+STU0107,Student 0107,EEE,6.51,Data Analysis,Infosys,7.14,Placed,2023
+STU0108,Student 0108,ISE,7.07,"Python, C++, React",Not Placed,0.0,Not Placed,2022
+STU0109,Student 0109,CSE,7.74,AutoCAD,Capgemini,5.06,Placed,2024
+STU0110,Student 0110,ECE,8.43,"Python, AWS, SQL",Oracle,8.89,Placed,2024
+STU0111,Student 0111,ISE,6.57,"AutoCAD, React, Python, Data Analysis",L&T,6.55,Placed,2022
+STU0112,Student 0112,ISE,7.56,AutoCAD,L&T,4.86,Placed,2026
+STU0113,Student 0113,ECE,7.1,"Java, AutoCAD, JavaScript",Not Placed,0.0,Not Placed,2022
+STU0114,Student 0114,CIVIL,8.01,Excel,IBM,8.24,Placed,2023
+STU0115,Student 0115,CSE,6.68,Python,Not Placed,0.0,Not Placed,2024
+STU0116,Student 0116,ME,5.56,"Java, C++",Not Placed,0.0,Not Placed,2025
+STU0117,Student 0117,ME,9.99,"Excel, AutoCAD",Tech Mahindra,6.47,Placed,2024
+STU0118,Student 0118,CSE,9.37,SQL,Not Placed,0.0,Not Placed,2023
+STU0119,Student 0119,CIVIL,5.52,"AutoCAD, Data Analysis, JavaScript",Not Placed,0.0,Not Placed,2025
+STU0120,Student 0120,CSE,9.84,"Excel, Python, Machine Learning, AWS",Wipro,5.37,Placed,2025
+STU0121,Student 0121,ME,7.0,"SQL, C++",Not Placed,0.0,Not Placed,2022
+STU0122,Student 0122,CSE,7.05,"JavaScript, Python",Capgemini,5.02,Placed,2022
+STU0123,Student 0123,ISE,8.24,AutoCAD,Not Placed,0.0,Not Placed,2025
+STU0124,Student 0124,ISE,8.26,"C++, AWS",Bosch,7.02,Placed,2026
+STU0125,Student 0125,CIVIL,9.78,"SQL, Java",Wipro,6.15,Placed,2026
+STU0126,Student 0126,EEE,7.91,"React, Python",Accenture,8.29,Placed,2026
+STU0127,Student 0127,ECE,9.9,"React, AWS",Deloitte,8.18,Placed,2025
+STU0128,Student 0128,ISE,7.67,"JavaScript, Excel",Not Placed,0.0,Not Placed,2025
+STU0129,Student 0129,CIVIL,5.88,"React, SQL, JavaScript, Python",Not Placed,0.0,Not Placed,2023
+STU0130,Student 0130,ME,9.77,"React, Java, C++",TCS,5.53,Placed,2025
+STU0131,Student 0131,EEE,6.87,"AWS, JavaScript, C++",Not Placed,0.0,Not Placed,2023
+STU0132,Student 0132,CIVIL,6.87,"AutoCAD, Python",Not Placed,0.0,Not Placed,2022
+STU0133,Student 0133,ECE,5.98,"Data Analysis, AWS, Machine Learning",Deloitte,13.57,Placed,2022
+STU0134,Student 0134,ECE,7.33,"AWS, Excel, React",Not Placed,0.0,Not Placed,2024
+STU0135,Student 0135,ME,9.93,Excel,Microsoft,33.49,Placed,2023
+STU0136,Student 0136,ISE,6.1,"Python, Machine Learning, AWS, React",Not Placed,0.0,Not Placed,2026
+STU0137,Student 0137,CSE,6.07,Machine Learning,L&T,5.08,Placed,2024
+STU0138,Student 0138,ECE,8.09,Java,Not Placed,0.0,Not Placed,2025
+STU0139,Student 0139,CIVIL,6.0,"Python, SQL, JavaScript",Not Placed,0.0,Not Placed,2023
+STU0140,Student 0140,EEE,8.12,"Data Analysis, AutoCAD, AWS",Not Placed,0.0,Not Placed,2024
+STU0141,Student 0141,ECE,6.95,"React, JavaScript, AutoCAD, Machine Learning",Oracle,14.22,Placed,2025
+STU0142,Student 0142,ECE,9.77,"SQL, Python",Accenture,6.5,Placed,2026
+STU0143,Student 0143,ECE,6.9,"React, AutoCAD, SQL, Excel",Not Placed,0.0,Not Placed,2023
+STU0144,Student 0144,CIVIL,8.22,Data Analysis,Not Placed,0.0,Not Placed,2026
+STU0145,Student 0145,EEE,9.08,"C++, JavaScript, AutoCAD, React",Capgemini,8.22,Placed,2024
+STU0146,Student 0146,EEE,6.1,"Machine Learning, JavaScript, AutoCAD, Java",IBM,11.1,Placed,2023
+STU0147,Student 0147,CSE,6.18,"AWS, SQL, JavaScript, C++",Not Placed,0.0,Not Placed,2024
+STU0148,Student 0148,CIVIL,9.6,"AutoCAD, JavaScript, Java",Accenture,9.0,Placed,2022
+STU0149,Student 0149,ECE,9.78,"Excel, JavaScript, SQL, Machine Learning",Infosys,6.55,Placed,2026
+STU0150,Student 0150,CSE,9.33,"Java, JavaScript, Python",Amazon,15.17,Placed,2026
+STU0151,Student 0151,ME,9.72,"React, AutoCAD",Bosch,6.21,Placed,2023
+STU0152,Student 0152,CIVIL,7.03,JavaScript,Not Placed,0.0,Not Placed,2024
+STU0153,Student 0153,CIVIL,6.36,AutoCAD,Not Placed,0.0,Not Placed,2024
+STU0154,Student 0154,EEE,6.19,"React, Data Analysis, Python",Infosys,5.86,Placed,2022
+STU0155,Student 0155,ECE,8.37,"SQL, C++, React",Deloitte,11.22,Placed,2026
+STU0156,Student 0156,CIVIL,7.83,"React, C++, SQL, AWS",L&T,6.74,Placed,2022
+STU0157,Student 0157,ME,5.53,"Machine Learning, JavaScript",Not Placed,0.0,Not Placed,2026
+STU0158,Student 0158,ME,9.19,"React, Java, Data Analysis, Machine Learning",Bosch,9.09,Placed,2025
+STU0159,Student 0159,CSE,9.54,JavaScript,IBM,9.66,Placed,2026
+STU0160,Student 0160,CSE,5.56,React,Not Placed,0.0,Not Placed,2025
+STU0161,Student 0161,ECE,7.29,"Java, AutoCAD",Not Placed,0.0,Not Placed,2025
+STU0162,Student 0162,ECE,6.0,"Java, C++, React, AWS",Google,20.77,Placed,2022
+STU0163,Student 0163,CSE,7.14,"AWS, Data Analysis, Machine Learning, Excel",Deloitte,13.35,Placed,2026
+STU0164,Student 0164,ME,7.08,"AutoCAD, AWS",Oracle,8.23,Placed,2025
+STU0165,Student 0165,CSE,7.72,"Java, Machine Learning",Microsoft,21.58,Placed,2025
+STU0166,Student 0166,ECE,6.88,"AutoCAD, Java, C++, JavaScript",Not Placed,0.0,Not Placed,2024
+STU0167,Student 0167,ECE,8.5,"React, Java, SQL",Not Placed,0.0,Not Placed,2026
+STU0168,Student 0168,CIVIL,8.4,Excel,Not Placed,0.0,Not Placed,2022
+STU0169,Student 0169,CSE,7.15,SQL,L&T,8.37,Placed,2025
+STU0170,Student 0170,ME,8.75,"React, AWS, Data Analysis",Not Placed,0.0,Not Placed,2023
+STU0171,Student 0171,ISE,7.07,"Machine Learning, React, SQL",Deloitte,9.73,Placed,2026
+STU0172,Student 0172,ME,8.89,"React, Data Analysis, C++, JavaScript",TCS,5.36,Placed,2024
+STU0173,Student 0173,ME,6.75,"AutoCAD, Java, Python, Machine Learning",Deloitte,13.75,Placed,2024
+STU0174,Student 0174,ECE,7.95,"AutoCAD, Java, SQL",IBM,11.54,Placed,2023
+STU0175,Student 0175,CIVIL,8.9,"JavaScript, React, Data Analysis",Accenture,8.47,Placed,2024
+STU0176,Student 0176,ME,9.46,"Data Analysis, Java, AutoCAD",Amazon,14.19,Placed,2022
+STU0177,Student 0177,CIVIL,7.3,"Data Analysis, JavaScript",Not Placed,0.0,Not Placed,2022
+STU0178,Student 0178,ECE,9.93,"Java, AutoCAD, SQL",TCS,8.51,Placed,2026
+STU0179,Student 0179,EEE,9.26,"JavaScript, Java",Amazon,19.27,Placed,2025
+STU0180,Student 0180,CSE,7.51,"Python, AWS, JavaScript, React",Amazon,25.09,Placed,2023
+STU0181,Student 0181,CSE,7.02,"Python, JavaScript, React, Data Analysis",Not Placed,0.0,Not Placed,2023
+STU0182,Student 0182,ECE,7.11,"Excel, Java",Not Placed,0.0,Not Placed,2025
+STU0183,Student 0183,ECE,8.29,"React, Excel, Machine Learning, C++",Not Placed,0.0,Not Placed,2025
+STU0184,Student 0184,CIVIL,7.12,"AutoCAD, React, Python",Not Placed,0.0,Not Placed,2022
+STU0185,Student 0185,CIVIL,7.06,"Java, Machine Learning, AWS, Python",Capgemini,5.21,Placed,2024
+STU0186,Student 0186,CIVIL,9.65,"SQL, Machine Learning, React, JavaScript",Tech Mahindra,5.2,Placed,2023
+STU0187,Student 0187,ME,8.4,"C++, Machine Learning, React",Not Placed,0.0,Not Placed,2026
+STU0188,Student 0188,EEE,5.88,"Java, C++, JavaScript",Not Placed,0.0,Not Placed,2026
+STU0189,Student 0189,ME,7.17,"Data Analysis, C++, Excel",Google,21.04,Placed,2022
+STU0190,Student 0190,EEE,7.99,"AutoCAD, Excel, Python",Bosch,9.26,Placed,2022
+STU0191,Student 0191,ME,5.98,"JavaScript, Machine Learning, AutoCAD, Data Analysis",Not Placed,0.0,Not Placed,2025
+STU0192,Student 0192,CIVIL,6.08,C++,Not Placed,0.0,Not Placed,2022
+STU0193,Student 0193,ME,6.78,"C++, Data Analysis",Accenture,6.49,Placed,2022
+STU0194,Student 0194,ISE,9.42,"Python, React, SQL, Machine Learning",Cognizant,7.93,Placed,2025
+STU0195,Student 0195,ISE,5.94,"React, Excel, SQL, AWS",Not Placed,0.0,Not Placed,2025
+STU0196,Student 0196,EEE,9.59,"C++, SQL, Python, Machine Learning",Microsoft,21.74,Placed,2024
+STU0197,Student 0197,CSE,5.88,"React, Excel",Not Placed,0.0,Not Placed,2024
+STU0198,Student 0198,ISE,8.78,"Data Analysis, Python, JavaScript",Wipro,7.93,Placed,2024
+STU0199,Student 0199,ECE,6.24,"Machine Learning, Python, JavaScript",Not Placed,0.0,Not Placed,2023
+STU0200,Student 0200,ME,5.96,"Excel, AWS, Data Analysis, Java",Not Placed,0.0,Not Placed,2025
+STU0201,Student 0201,EEE,8.14,"React, AWS, AutoCAD",Not Placed,0.0,Not Placed,2025
+STU0202,Student 0202,ME,9.67,"React, AutoCAD",Tech Mahindra,5.31,Placed,2022
+STU0203,Student 0203,CSE,9.88,"Java, AWS, C++",Microsoft,33.94,Placed,2024
+STU0204,Student 0204,EEE,7.89,"AutoCAD, Machine Learning",Not Placed,0.0,Not Placed,2026
+STU0205,Student 0205,ME,9.85,"SQL, Data Analysis, Excel, C++",Infosys,6.52,Placed,2026
+STU0206,Student 0206,ECE,5.99,"Python, C++, Java",Not Placed,0.0,Not Placed,2026
+STU0207,Student 0207,CIVIL,9.43,"Python, Machine Learning",Not Placed,0.0,Not Placed,2023
+STU0208,Student 0208,CSE,6.46,Excel,IBM,8.47,Placed,2024
+STU0209,Student 0209,ME,5.66,SQL,Not Placed,0.0,Not Placed,2023
+STU0210,Student 0210,ME,7.98,Data Analysis,Cognizant,8.4,Placed,2026
+STU0211,Student 0211,CIVIL,8.3,C++,Not Placed,0.0,Not Placed,2025
+STU0212,Student 0212,CIVIL,7.34,"JavaScript, Excel, Python, React",Not Placed,0.0,Not Placed,2024
+STU0213,Student 0213,CSE,6.35,"Java, AWS, Python, Excel",Capgemini,4.0,Placed,2025
+STU0214,Student 0214,EEE,6.77,Python,L&T,8.06,Placed,2026
+STU0215,Student 0215,EEE,7.06,"Python, C++, AWS",Cognizant,6.73,Placed,2023
+STU0216,Student 0216,ISE,8.62,AWS,IBM,10.5,Placed,2024
+STU0217,Student 0217,ECE,9.85,Python,L&T,5.06,Placed,2022
+STU0218,Student 0218,CSE,7.45,Data Analysis,Not Placed,0.0,Not Placed,2025
+STU0219,Student 0219,ME,9.6,SQL,Oracle,16.06,Placed,2024
+STU0220,Student 0220,EEE,9.7,Data Analysis,Infosys,6.79,Placed,2022
+STU0221,Student 0221,ME,8.09,Python,Tech Mahindra,7.92,Placed,2024
+STU0222,Student 0222,CSE,7.81,Python,Not Placed,0.0,Not Placed,2024
+STU0223,Student 0223,CIVIL,5.73,"Excel, Python, SQL",Not Placed,0.0,Not Placed,2025
+STU0224,Student 0224,ISE,9.0,"C++, Data Analysis, React, JavaScript",Wipro,7.27,Placed,2022
+STU0225,Student 0225,ECE,6.43,"C++, AWS",Not Placed,0.0,Not Placed,2023
+STU0226,Student 0226,ECE,9.35,"JavaScript, Data Analysis, SQL, Machine Learning",Not Placed,0.0,Not Placed,2025
+STU0227,Student 0227,ME,6.38,"JavaScript, AWS, C++",Not Placed,0.0,Not Placed,2024
+STU0228,Student 0228,ECE,9.52,"C++, Python",Wipro,7.14,Placed,2023
+STU0229,Student 0229,EEE,9.13,Java,Oracle,16.8,Placed,2024
+STU0230,Student 0230,CSE,5.53,"React, Java, JavaScript",Not Placed,0.0,Not Placed,2024
+STU0231,Student 0231,ISE,6.28,"AWS, JavaScript, Excel, React",Not Placed,0.0,Not Placed,2023
+STU0232,Student 0232,ISE,6.47,"Machine Learning, Data Analysis, Excel",L&T,7.77,Placed,2025
+STU0233,Student 0233,EEE,7.77,"C++, AWS",Wipro,4.51,Placed,2026
+STU0234,Student 0234,ISE,9.23,Python,L&T,8.32,Placed,2022
+STU0235,Student 0235,CIVIL,8.12,"C++, React",Microsoft,30.14,Placed,2022
+STU0236,Student 0236,ECE,5.67,"SQL, React, Machine Learning, JavaScript",Tech Mahindra,6.66,Placed,2022
+STU0237,Student 0237,CIVIL,6.71,"Data Analysis, AWS",Not Placed,0.0,Not Placed,2025
+STU0238,Student 0238,ME,6.4,"AWS, C++, Java, SQL",Not Placed,0.0,Not Placed,2022
+STU0239,Student 0239,ECE,8.91,Excel,Capgemini,7.15,Placed,2026
+STU0240,Student 0240,ISE,7.87,"AWS, SQL, Machine Learning, React",Not Placed,0.0,Not Placed,2025
+STU0241,Student 0241,ECE,8.48,"Python, Excel, AWS",Not Placed,0.0,Not Placed,2022
+STU0242,Student 0242,ME,6.42,"Java, React, Python, JavaScript",Capgemini,6.32,Placed,2022
+STU0243,Student 0243,EEE,9.49,"Machine Learning, Data Analysis, SQL",Cognizant,7.11,Placed,2025
+STU0244,Student 0244,ECE,6.78,"Python, C++, Excel, React",Not Placed,0.0,Not Placed,2025
+STU0245,Student 0245,EEE,7.19,"SQL, AWS",Not Placed,0.0,Not Placed,2025
+STU0246,Student 0246,CSE,6.53,"Data Analysis, Machine Learning",Bosch,7.8,Placed,2023
+STU0247,Student 0247,ME,9.36,"Python, AWS, React",Not Placed,0.0,Not Placed,2025
+STU0248,Student 0248,CIVIL,7.62,Python,Google,22.44,Placed,2022
+STU0249,Student 0249,ME,7.12,"React, C++, Machine Learning, Excel",Oracle,13.82,Placed,2023
+STU0250,Student 0250,CSE,6.3,"JavaScript, Java, C++, AutoCAD",Not Placed,0.0,Not Placed,2022
+STU0251,Student 0251,ISE,8.97,"React, Java, AWS",Capgemini,4.75,Placed,2022
+STU0252,Student 0252,CSE,7.66,Machine Learning,Not Placed,0.0,Not Placed,2026
+STU0253,Student 0253,ME,9.73,"Java, JavaScript",Microsoft,27.35,Placed,2023
+STU0254,Student 0254,CIVIL,9.44,"Data Analysis, AWS, C++",Accenture,7.4,Placed,2025
+STU0255,Student 0255,ME,6.78,"AutoCAD, Java, Machine Learning, JavaScript",Microsoft,16.56,Placed,2024
+STU0256,Student 0256,ECE,6.72,"JavaScript, Data Analysis, AWS, Excel",Not Placed,0.0,Not Placed,2022
+STU0257,Student 0257,ECE,7.79,"Java, AWS, SQL",Oracle,12.01,Placed,2023
+STU0258,Student 0258,EEE,9.0,"React, JavaScript",Not Placed,0.0,Not Placed,2024
+STU0259,Student 0259,ISE,6.83,"SQL, Python",Wipro,7.24,Placed,2023
+STU0260,Student 0260,ME,7.37,C++,Cognizant,6.39,Placed,2022
+STU0261,Student 0261,CIVIL,7.1,"Excel, C++",Accenture,7.5,Placed,2023
+STU0262,Student 0262,EEE,8.93,Java,Infosys,4.59,Placed,2022
+STU0263,Student 0263,CSE,7.34,"C++, Java",Tech Mahindra,7.35,Placed,2022
+STU0264,Student 0264,ISE,6.71,"Java, Excel, AWS",Not Placed,0.0,Not Placed,2023
+STU0265,Student 0265,CSE,6.24,"JavaScript, AWS, Java, React",Not Placed,0.0,Not Placed,2026
+STU0266,Student 0266,EEE,7.84,"C++, Machine Learning, Data Analysis",Not Placed,0.0,Not Placed,2024
+STU0267,Student 0267,ECE,7.34,C++,Microsoft,18.48,Placed,2025
+STU0268,Student 0268,ECE,7.49,"JavaScript, AutoCAD, SQL, Python",Not Placed,0.0,Not Placed,2024
+STU0269,Student 0269,CIVIL,7.09,Data Analysis,Microsoft,26.37,Placed,2025
+STU0270,Student 0270,CIVIL,9.2,"Machine Learning, Data Analysis, Java",Microsoft,19.94,Placed,2024
+STU0271,Student 0271,CSE,8.43,React,Infosys,6.1,Placed,2023
+STU0272,Student 0272,EEE,5.51,"C++, Python",Not Placed,0.0,Not Placed,2022
+STU0273,Student 0273,CSE,8.04,"Java, AutoCAD",Not Placed,0.0,Not Placed,2022
+STU0274,Student 0274,CIVIL,9.59,"Excel, Python",Cognizant,7.72,Placed,2022
+STU0275,Student 0275,CSE,5.92,Machine Learning,Not Placed,0.0,Not Placed,2022
+STU0276,Student 0276,CSE,8.13,"Data Analysis, SQL, C++",Not Placed,0.0,Not Placed,2023
+STU0277,Student 0277,ISE,6.85,"React, Excel",Not Placed,0.0,Not Placed,2022
+STU0278,Student 0278,ECE,7.42,"Excel, Data Analysis, AWS",Oracle,17.08,Placed,2023
+STU0279,Student 0279,ISE,6.26,"Python, AutoCAD",Oracle,16.9,Placed,2022
+STU0280,Student 0280,CIVIL,8.13,C++,Not Placed,0.0,Not Placed,2023
+STU0281,Student 0281,ME,8.59,"AutoCAD, JavaScript",Bosch,9.22,Placed,2022
+STU0282,Student 0282,ECE,7.11,"Python, Machine Learning, AWS, JavaScript",Not Placed,0.0,Not Placed,2023
+STU0283,Student 0283,ISE,7.0,"React, Machine Learning, AWS",Tech Mahindra,6.06,Placed,2024
+STU0284,Student 0284,CIVIL,6.83,"AWS, JavaScript",Not Placed,0.0,Not Placed,2023
+STU0285,Student 0285,EEE,6.55,"React, JavaScript, Machine Learning",Not Placed,0.0,Not Placed,2026
+STU0286,Student 0286,ISE,5.64,"SQL, JavaScript, Machine Learning, C++",Not Placed,0.0,Not Placed,2024
+STU0287,Student 0287,EEE,7.48,AWS,L&T,5.66,Placed,2025
+STU0288,Student 0288,ECE,6.69,"Java, AWS",Amazon,15.78,Placed,2022
+STU0289,Student 0289,CIVIL,7.32,"JavaScript, SQL",Not Placed,0.0,Not Placed,2025
+STU0290,Student 0290,ME,5.94,"React, Java, Excel, C++",Deloitte,12.61,Placed,2026
+STU0291,Student 0291,CIVIL,9.52,"AutoCAD, SQL, C++, AWS",Capgemini,6.31,Placed,2023
+STU0292,Student 0292,ME,6.24,"SQL, Machine Learning",Not Placed,0.0,Not Placed,2026
+STU0293,Student 0293,CSE,6.44,"Python, C++",Not Placed,0.0,Not Placed,2022
+STU0294,Student 0294,ECE,9.07,"Data Analysis, AWS, AutoCAD",Wipro,8.42,Placed,2025
+STU0295,Student 0295,ECE,9.57,"AWS, SQL, JavaScript, C++",Not Placed,0.0,Not Placed,2024
+STU0296,Student 0296,ME,8.71,Python,Cognizant,5.8,Placed,2022
+STU0297,Student 0297,CSE,8.65,C++,Not Placed,0.0,Not Placed,2023
+STU0298,Student 0298,CSE,5.69,Python,Not Placed,0.0,Not Placed,2022
+STU0299,Student 0299,ME,6.24,Java,Not Placed,0.0,Not Placed,2025
+STU0300,Student 0300,CIVIL,8.94,AutoCAD,Not Placed,0.0,Not Placed,2023
+STU0301,Student 0301,CSE,6.27,"React, C++",Accenture,8.32,Placed,2022
+STU0302,Student 0302,ME,9.0,"Java, SQL",Oracle,15.69,Placed,2024
+STU0303,Student 0303,ISE,8.41,Python,Not Placed,0.0,Not Placed,2024
+STU0304,Student 0304,EEE,8.31,"JavaScript, Python, Excel",Bosch,9.2,Placed,2025
+STU0305,Student 0305,ME,6.77,SQL,Not Placed,0.0,Not Placed,2026
+STU0306,Student 0306,ECE,9.32,"Excel, Java",L&T,6.41,Placed,2024
+STU0307,Student 0307,ECE,6.89,"AWS, AutoCAD",Not Placed,0.0,Not Placed,2026
+STU0308,Student 0308,CSE,9.18,"Python, JavaScript, C++",Oracle,17.76,Placed,2022
+STU0309,Student 0309,EEE,8.84,"SQL, Java, JavaScript, Excel",Capgemini,6.09,Placed,2022
+STU0310,Student 0310,CIVIL,6.86,"Excel, React, AWS",L&T,8.65,Placed,2025
+STU0311,Student 0311,CSE,7.47,"React, C++",Not Placed,0.0,Not Placed,2022
+STU0312,Student 0312,ECE,9.65,"JavaScript, SQL, React",Cognizant,6.95,Placed,2022
+STU0313,Student 0313,CSE,6.39,"JavaScript, AutoCAD, C++",Not Placed,0.0,Not Placed,2024
+STU0314,Student 0314,EEE,9.26,"JavaScript, Excel, SQL, Java",Accenture,8.97,Placed,2024
+STU0315,Student 0315,ME,6.86,"AutoCAD, JavaScript, Java, C++",IBM,8.45,Placed,2024
+STU0316,Student 0316,ISE,5.64,"Data Analysis, Python, C++",Not Placed,0.0,Not Placed,2022
+STU0317,Student 0317,ME,6.17,"Excel, C++",Not Placed,0.0,Not Placed,2023
+STU0318,Student 0318,ECE,6.8,"SQL, Machine Learning, Java, Excel",Not Placed,0.0,Not Placed,2023
+STU0319,Student 0319,ECE,8.15,"AWS, Excel, SQL, Data Analysis",Google,22.59,Placed,2026
+STU0320,Student 0320,ME,6.58,"Data Analysis, SQL, JavaScript",TCS,4.88,Placed,2026
+STU0321,Student 0321,ME,9.02,"SQL, Data Analysis",Capgemini,5.73,Placed,2022
+STU0322,Student 0322,ME,6.13,"JavaScript, Machine Learning, AWS, SQL",Oracle,11.7,Placed,2025
+STU0323,Student 0323,ME,6.3,"Excel, JavaScript, Python, Data Analysis",Not Placed,0.0,Not Placed,2023
+STU0324,Student 0324,ECE,7.03,JavaScript,Not Placed,0.0,Not Placed,2025
+STU0325,Student 0325,CSE,5.75,Excel,Capgemini,5.7,Placed,2026
+STU0326,Student 0326,EEE,8.02,"Java, JavaScript",Not Placed,0.0,Not Placed,2024
+STU0327,Student 0327,ISE,8.8,"AWS, Excel",Not Placed,0.0,Not Placed,2023
+STU0328,Student 0328,ME,9.48,Python,Cognizant,6.95,Placed,2026
+STU0329,Student 0329,ISE,9.96,"Machine Learning, C++",Tech Mahindra,5.58,Placed,2024
+STU0330,Student 0330,CIVIL,9.44,"JavaScript, Java",Deloitte,13.66,Placed,2022
+STU0331,Student 0331,CIVIL,6.76,"Machine Learning, C++, SQL",Not Placed,0.0,Not Placed,2026
+STU0332,Student 0332,ISE,9.8,"SQL, React, Data Analysis, AWS",Tech Mahindra,5.79,Placed,2024
+STU0333,Student 0333,ME,7.47,"Machine Learning, Excel",Not Placed,0.0,Not Placed,2024
+STU0334,Student 0334,ME,6.34,"AutoCAD, SQL, AWS",Not Placed,0.0,Not Placed,2023
+STU0335,Student 0335,EEE,8.34,"Python, Java, Data Analysis",Not Placed,0.0,Not Placed,2022
+STU0336,Student 0336,ISE,6.16,"JavaScript, AutoCAD",IBM,10.38,Placed,2023
+STU0337,Student 0337,EEE,5.57,"Machine Learning, AWS, Java",Not Placed,0.0,Not Placed,2024
+STU0338,Student 0338,ECE,6.46,"Python, AutoCAD, Java",Capgemini,4.35,Placed,2026
+STU0339,Student 0339,CIVIL,9.5,Java,Google,24.23,Placed,2023
+STU0340,Student 0340,EEE,6.0,AutoCAD,Not Placed,0.0,Not Placed,2022
+STU0341,Student 0341,CIVIL,7.23,"Python, Machine Learning, C++",Not Placed,0.0,Not Placed,2025
+STU0342,Student 0342,CIVIL,9.44,JavaScript,Bosch,8.53,Placed,2023
+STU0343,Student 0343,ISE,7.14,"AutoCAD, AWS, JavaScript",Infosys,4.97,Placed,2023
+STU0344,Student 0344,ME,7.45,"JavaScript, Machine Learning",Not Placed,0.0,Not Placed,2026
+STU0345,Student 0345,CIVIL,8.22,"React, C++, Excel",Amazon,17.73,Placed,2022
+STU0346,Student 0346,EEE,5.56,"AutoCAD, Java, Data Analysis, Excel",Infosys,6.68,Placed,2025
+STU0347,Student 0347,CIVIL,8.31,"AutoCAD, C++, Excel",Microsoft,27.4,Placed,2023
+STU0348,Student 0348,EEE,7.24,"AutoCAD, Excel, AWS",Amazon,20.1,Placed,2022
+STU0349,Student 0349,ISE,6.02,Data Analysis,Not Placed,0.0,Not Placed,2026
+STU0350,Student 0350,CIVIL,7.22,"AutoCAD, Java, Machine Learning, SQL",Accenture,5.65,Placed,2023
+STU0351,Student 0351,CIVIL,9.54,"C++, Machine Learning",Accenture,7.31,Placed,2026
+STU0352,Student 0352,CSE,9.9,AutoCAD,Oracle,18.07,Placed,2024
+STU0353,Student 0353,ISE,9.87,"Data Analysis, SQL, Python, AutoCAD",Bosch,8.92,Placed,2024
+STU0354,Student 0354,CIVIL,7.57,"Machine Learning, AWS, AutoCAD",Not Placed,0.0,Not Placed,2025
+STU0355,Student 0355,ISE,8.12,"Data Analysis, Java",Not Placed,0.0,Not Placed,2022
+STU0356,Student 0356,EEE,6.06,"Machine Learning, Python, C++, SQL",IBM,9.97,Placed,2023
+STU0357,Student 0357,CIVIL,5.91,"React, Machine Learning",Not Placed,0.0,Not Placed,2026
+STU0358,Student 0358,CIVIL,8.04,"SQL, JavaScript, Data Analysis",Accenture,9.45,Placed,2024
+STU0359,Student 0359,ECE,7.16,Python,Bosch,6.03,Placed,2024
+STU0360,Student 0360,CSE,9.0,Machine Learning,Not Placed,0.0,Not Placed,2025
+STU0361,Student 0361,ISE,9.18,"Machine Learning, Excel, JavaScript, Data Analysis",Not Placed,0.0,Not Placed,2024
+STU0362,Student 0362,CIVIL,9.08,"SQL, AWS, C++, JavaScript",Microsoft,28.5,Placed,2023
+STU0363,Student 0363,CIVIL,6.55,"Excel, JavaScript, React",Not Placed,0.0,Not Placed,2026
+STU0364,Student 0364,EEE,9.36,"Machine Learning, AutoCAD",Capgemini,6.05,Placed,2025
+STU0365,Student 0365,ISE,7.3,"C++, Python, Machine Learning, AWS",Not Placed,0.0,Not Placed,2023
+STU0366,Student 0366,EEE,7.79,"React, JavaScript, Data Analysis",Wipro,4.53,Placed,2023
+STU0367,Student 0367,ECE,7.66,Data Analysis,TCS,4.29,Placed,2024
+STU0368,Student 0368,ECE,7.4,"AutoCAD, C++, Java",Cognizant,7.81,Placed,2022
+STU0369,Student 0369,ISE,7.58,"AutoCAD, Python, SQL",Not Placed,0.0,Not Placed,2026
+STU0370,Student 0370,ME,8.2,"JavaScript, SQL",L&T,8.93,Placed,2024
+STU0371,Student 0371,CIVIL,8.92,"AutoCAD, Excel",Capgemini,5.05,Placed,2024
+STU0372,Student 0372,ECE,6.34,JavaScript,Not Placed,0.0,Not Placed,2025
+STU0373,Student 0373,CIVIL,7.49,Machine Learning,Infosys,4.67,Placed,2026
+STU0374,Student 0374,CSE,7.61,"Java, Excel",Not Placed,0.0,Not Placed,2024
+STU0375,Student 0375,ISE,6.65,"C++, React",Not Placed,0.0,Not Placed,2025
+STU0376,Student 0376,CSE,9.79,"C++, Data Analysis",Not Placed,0.0,Not Placed,2024
+STU0377,Student 0377,EEE,9.67,"React, SQL, Machine Learning, JavaScript",Oracle,10.43,Placed,2024
+STU0378,Student 0378,ECE,6.22,"SQL, JavaScript, Python",TCS,4.75,Placed,2023
+STU0379,Student 0379,EEE,9.72,"Excel, Data Analysis, React, Machine Learning",Bosch,11.73,Placed,2024
+STU0380,Student 0380,CSE,9.91,"C++, Excel, AutoCAD, JavaScript",IBM,7.57,Placed,2024
+STU0381,Student 0381,ISE,6.04,Data Analysis,TCS,5.11,Placed,2023
+STU0382,Student 0382,ISE,6.59,Python,Not Placed,0.0,Not Placed,2025
+STU0383,Student 0383,ME,9.96,"Excel, React, Java, Machine Learning",L&T,5.04,Placed,2024
+STU0384,Student 0384,EEE,6.77,"Java, Python",Cognizant,4.81,Placed,2026
+STU0385,Student 0385,ISE,8.27,"SQL, React, C++",Deloitte,7.17,Placed,2025
+STU0386,Student 0386,ISE,9.16,"C++, AutoCAD, SQL",Amazon,12.44,Placed,2025
+STU0387,Student 0387,ECE,7.68,"Excel, AWS",TCS,4.45,Placed,2025
+STU0388,Student 0388,CSE,9.87,"JavaScript, Java",Capgemini,8.31,Placed,2026
+STU0389,Student 0389,ME,5.57,"Excel, C++",Not Placed,0.0,Not Placed,2025
+STU0390,Student 0390,ME,6.11,"Data Analysis, JavaScript",Not Placed,0.0,Not Placed,2022
+STU0391,Student 0391,ECE,6.53,"Excel, Machine Learning",Not Placed,0.0,Not Placed,2022
+STU0392,Student 0392,CSE,8.15,"Machine Learning, C++",Microsoft,17.13,Placed,2023
+STU0393,Student 0393,ISE,5.8,"SQL, React",Not Placed,0.0,Not Placed,2026
+STU0394,Student 0394,ECE,9.67,Java,Capgemini,4.71,Placed,2023
+STU0395,Student 0395,ECE,7.32,"AWS, Python",Amazon,15.96,Placed,2022
+STU0396,Student 0396,ECE,7.02,"Java, Excel, SQL",Capgemini,7.2,Placed,2024
+STU0397,Student 0397,ME,9.25,"AWS, C++, Data Analysis, Java",Oracle,18.06,Placed,2024
+STU0398,Student 0398,ME,5.88,"Data Analysis, AutoCAD",Not Placed,0.0,Not Placed,2022
+STU0399,Student 0399,CSE,5.99,"Java, Excel, AutoCAD, SQL",Not Placed,0.0,Not Placed,2024
+STU0400,Student 0400,ECE,8.17,"Java, AWS",Not Placed,0.0,Not Placed,2023
+STU0401,Student 0401,ECE,7.01,Java,Accenture,6.84,Placed,2023
+STU0402,Student 0402,ECE,6.7,"Java, Data Analysis",Bosch,9.84,Placed,2023
+STU0403,Student 0403,CSE,9.24,"Java, Data Analysis, AWS",Capgemini,8.14,Placed,2024
+STU0404,Student 0404,ME,7.9,"AWS, C++, Python",Wipro,5.12,Placed,2022
+STU0405,Student 0405,ME,6.71,React,Accenture,8.57,Placed,2022
+STU0406,Student 0406,ME,8.62,"React, AutoCAD, SQL, Python",Tech Mahindra,4.82,Placed,2026
+STU0407,Student 0407,ECE,8.91,AutoCAD,Bosch,7.55,Placed,2024
+STU0408,Student 0408,CSE,5.65,"Python, Java, AWS",Not Placed,0.0,Not Placed,2025
+STU0409,Student 0409,ME,6.47,"Data Analysis, Excel, Java",Deloitte,13.39,Placed,2023
+STU0410,Student 0410,ISE,7.46,"SQL, Data Analysis",L&T,7.03,Placed,2022
+STU0411,Student 0411,ECE,7.15,"Data Analysis, Python",Deloitte,6.09,Placed,2026
+STU0412,Student 0412,ECE,7.68,"Python, Java, Data Analysis",Not Placed,0.0,Not Placed,2026
+STU0413,Student 0413,CIVIL,7.84,React,L&T,4.61,Placed,2024
+STU0414,Student 0414,CSE,8.65,"SQL, Python, C++, Excel",Microsoft,27.58,Placed,2023
+STU0415,Student 0415,ECE,6.37,"React, SQL, JavaScript",Not Placed,0.0,Not Placed,2025
+STU0416,Student 0416,ECE,7.38,"Data Analysis, C++",Not Placed,0.0,Not Placed,2024
+STU0417,Student 0417,EEE,7.49,"Excel, SQL",Infosys,6.69,Placed,2022
+STU0418,Student 0418,ISE,9.22,"Machine Learning, AutoCAD",Not Placed,0.0,Not Placed,2026
+STU0419,Student 0419,EEE,6.8,Data Analysis,Not Placed,0.0,Not Placed,2026
+STU0420,Student 0420,ISE,5.87,AutoCAD,Not Placed,0.0,Not Placed,2022
+STU0421,Student 0421,CSE,9.67,"Data Analysis, C++",Google,22.23,Placed,2026
+STU0422,Student 0422,CIVIL,9.53,"JavaScript, C++, React",Microsoft,27.72,Placed,2026
+STU0423,Student 0423,EEE,8.02,AWS,Not Placed,0.0,Not Placed,2024
+STU0424,Student 0424,CIVIL,6.23,"React, JavaScript",Not Placed,0.0,Not Placed,2026
+STU0425,Student 0425,EEE,8.2,"Data Analysis, React",Not Placed,0.0,Not Placed,2024
+STU0426,Student 0426,ME,9.87,"AutoCAD, C++, Machine Learning, Data Analysis",IBM,7.34,Placed,2023
+STU0427,Student 0427,CSE,6.23,"Excel, Java",Not Placed,0.0,Not Placed,2025
+STU0428,Student 0428,EEE,7.93,"Java, React, JavaScript, SQL",TCS,6.34,Placed,2023
+STU0429,Student 0429,EEE,6.07,Machine Learning,Infosys,7.75,Placed,2024
+STU0430,Student 0430,CIVIL,9.62,"SQL, AWS, Machine Learning",Deloitte,10.27,Placed,2025
+STU0431,Student 0431,CIVIL,6.66,"AutoCAD, Data Analysis, React, AWS",Not Placed,0.0,Not Placed,2022
+STU0432,Student 0432,ISE,7.79,SQL,Oracle,15.35,Placed,2026
+STU0433,Student 0433,ISE,7.3,"Machine Learning, AutoCAD, Java, Python",TCS,5.32,Placed,2025
+STU0434,Student 0434,CSE,9.19,"JavaScript, SQL, Data Analysis, Python",IBM,6.74,Placed,2023
+STU0435,Student 0435,ECE,5.53,"React, Excel, Data Analysis, Machine Learning",Cognizant,5.86,Placed,2023
+STU0436,Student 0436,ME,8.25,"Data Analysis, Java, AWS",IBM,10.71,Placed,2026
+STU0437,Student 0437,ECE,5.69,Python,Not Placed,0.0,Not Placed,2024
+STU0438,Student 0438,ECE,6.59,JavaScript,Not Placed,0.0,Not Placed,2023
+STU0439,Student 0439,ME,7.54,AWS,Cognizant,7.83,Placed,2024
+STU0440,Student 0440,ECE,8.24,Python,Amazon,16.15,Placed,2023
+STU0441,Student 0441,ECE,9.69,"Data Analysis, JavaScript",Deloitte,9.34,Placed,2022
+STU0442,Student 0442,ECE,9.87,"AutoCAD, AWS",Not Placed,0.0,Not Placed,2024
+STU0443,Student 0443,CSE,9.4,"Excel, Python",TCS,6.28,Placed,2025
+STU0444,Student 0444,EEE,6.61,"Java, JavaScript, AWS, Data Analysis",Bosch,5.09,Placed,2025
+STU0445,Student 0445,CIVIL,9.11,Machine Learning,Oracle,18.34,Placed,2025
+STU0446,Student 0446,ME,8.12,"Machine Learning, React, JavaScript",Tech Mahindra,4.42,Placed,2025
+STU0447,Student 0447,ISE,9.14,"Data Analysis, AWS, AutoCAD",Bosch,10.69,Placed,2023
+STU0448,Student 0448,ME,5.86,"Data Analysis, AutoCAD, React, C++",Not Placed,0.0,Not Placed,2025
+STU0449,Student 0449,CIVIL,9.57,"React, SQL, AWS, JavaScript",Amazon,13.39,Placed,2024
+STU0450,Student 0450,ME,8.95,"Java, AWS, AutoCAD, Machine Learning",Microsoft,25.97,Placed,2023
+STU0451,Student 0451,CIVIL,6.32,C++,Not Placed,0.0,Not Placed,2023
+STU0452,Student 0452,ECE,8.24,"JavaScript, AWS, Machine Learning, AutoCAD",Google,32.76,Placed,2024
+STU0453,Student 0453,EEE,6.81,"Python, Java, AutoCAD, Excel",L&T,7.68,Placed,2023
+STU0454,Student 0454,EEE,6.73,"AutoCAD, SQL, Python, JavaScript",Not Placed,0.0,Not Placed,2025
+STU0455,Student 0455,EEE,8.51,"AWS, SQL, React, Java",Cognizant,8.12,Placed,2026
+STU0456,Student 0456,EEE,6.7,"AWS, Java, C++, React",Not Placed,0.0,Not Placed,2025
+STU0457,Student 0457,ISE,6.66,AutoCAD,Infosys,8.89,Placed,2023
+STU0458,Student 0458,CIVIL,8.72,Excel,TCS,5.28,Placed,2024
+STU0459,Student 0459,EEE,6.44,React,Not Placed,0.0,Not Placed,2023
+STU0460,Student 0460,CIVIL,7.41,"Data Analysis, Machine Learning, Python",Cognizant,6.71,Placed,2022
+STU0461,Student 0461,ISE,7.9,"JavaScript, Excel, AutoCAD, SQL",Not Placed,0.0,Not Placed,2022
+STU0462,Student 0462,ISE,6.44,Python,Infosys,4.45,Placed,2024
+STU0463,Student 0463,EEE,7.22,"Python, AWS, Excel, JavaScript",Oracle,11.68,Placed,2023
+STU0464,Student 0464,ECE,8.3,Python,Bosch,5.51,Placed,2023
+STU0465,Student 0465,CIVIL,7.35,"Data Analysis, AutoCAD, Excel",Not Placed,0.0,Not Placed,2024
+STU0466,Student 0466,ISE,8.56,"C++, Data Analysis, SQL, Java",Not Placed,0.0,Not Placed,2026
+STU0467,Student 0467,CSE,9.28,"Python, AWS, Data Analysis, React",Wipro,5.74,Placed,2022
+STU0468,Student 0468,ECE,8.11,AutoCAD,Not Placed,0.0,Not Placed,2022
+STU0469,Student 0469,ECE,8.89,Java,Accenture,7.66,Placed,2023
+STU0470,Student 0470,ECE,8.52,JavaScript,Not Placed,0.0,Not Placed,2023
+STU0471,Student 0471,CSE,8.2,"Data Analysis, C++, Python, SQL",Not Placed,0.0,Not Placed,2023
+STU0472,Student 0472,ISE,9.59,"JavaScript, React, Machine Learning",Wipro,4.69,Placed,2024
+STU0473,Student 0473,EEE,8.19,"AWS, Excel, C++, JavaScript",Accenture,6.19,Placed,2022
+STU0474,Student 0474,ECE,8.63,"JavaScript, Excel, SQL, Java",TCS,4.82,Placed,2023
+STU0475,Student 0475,ECE,7.04,"Excel, AWS, Data Analysis",Not Placed,0.0,Not Placed,2023
+STU0476,Student 0476,ECE,7.62,React,Amazon,10.82,Placed,2022
+STU0477,Student 0477,ECE,7.45,"AWS, C++",Not Placed,0.0,Not Placed,2022
+STU0478,Student 0478,EEE,8.95,Python,Google,18.81,Placed,2022
+STU0479,Student 0479,EEE,9.94,Machine Learning,Not Placed,0.0,Not Placed,2025
+STU0480,Student 0480,EEE,7.87,Excel,L&T,5.25,Placed,2023
+STU0481,Student 0481,ISE,9.11,"AutoCAD, Data Analysis",Tech Mahindra,4.54,Placed,2022
+STU0482,Student 0482,EEE,5.7,Python,Not Placed,0.0,Not Placed,2026
+STU0483,Student 0483,CIVIL,9.01,"AutoCAD, SQL, React, Excel",Not Placed,0.0,Not Placed,2022
+STU0484,Student 0484,ISE,9.95,Python,Cognizant,7.35,Placed,2024
+STU0485,Student 0485,ME,6.58,"JavaScript, React",Google,16.09,Placed,2025
+STU0486,Student 0486,ISE,6.36,"Python, SQL, JavaScript",Not Placed,0.0,Not Placed,2025
+STU0487,Student 0487,ECE,9.9,"C++, Data Analysis",Tech Mahindra,7.68,Placed,2024
+STU0488,Student 0488,CSE,6.33,Python,L&T,6.76,Placed,2025
+STU0489,Student 0489,CSE,8.34,Python,Capgemini,4.5,Placed,2026
+STU0490,Student 0490,ISE,6.18,"Machine Learning, Excel, C++, Java",Accenture,7.63,Placed,2023
+STU0491,Student 0491,ME,8.18,"Excel, AWS, C++",TCS,8.14,Placed,2026
+STU0492,Student 0492,CSE,8.81,"React, AWS, Data Analysis",Wipro,7.05,Placed,2024
+STU0493,Student 0493,CSE,8.84,"React, Python, JavaScript",TCS,4.6,Placed,2026
+STU0494,Student 0494,ECE,8.81,Data Analysis,Cognizant,6.86,Placed,2026
+STU0495,Student 0495,ME,8.57,AWS,Infosys,7.8,Placed,2022
+STU0496,Student 0496,ISE,6.22,"C++, JavaScript, Data Analysis",Not Placed,0.0,Not Placed,2022
+STU0497,Student 0497,EEE,9.5,"AutoCAD, AWS, Excel",Amazon,11.09,Placed,2025
+STU0498,Student 0498,CIVIL,9.27,Excel,Not Placed,0.0,Not Placed,2023
+STU0499,Student 0499,EEE,8.87,"Python, Data Analysis, JavaScript",L&T,4.47,Placed,2025
+STU0500,Student 0500,EEE,8.45,Excel,IBM,9.34,Placed,2026
+STU0501,Student 0501,EEE,6.35,"Data Analysis, C++, JavaScript",Tech Mahindra,7.4,Placed,2023
+STU0502,Student 0502,CIVIL,7.44,"AutoCAD, Excel, Java",Accenture,5.35,Placed,2023
+STU0503,Student 0503,CSE,8.44,"SQL, Java, AWS, React",IBM,8.66,Placed,2024
+STU0504,Student 0504,EEE,7.23,"Excel, SQL, React, Machine Learning",Accenture,7.13,Placed,2025
+STU0505,Student 0505,ISE,7.99,React,Not Placed,0.0,Not Placed,2023
+STU0506,Student 0506,CSE,8.71,"C++, React, AWS",Infosys,8.05,Placed,2026
+STU0507,Student 0507,EEE,7.01,"Python, AWS, JavaScript",Bosch,7.27,Placed,2024
+STU0508,Student 0508,CIVIL,8.11,"C++, Python, AWS, AutoCAD",Microsoft,31.61,Placed,2024
+STU0509,Student 0509,ISE,7.24,"C++, Java, Python, JavaScript",Not Placed,0.0,Not Placed,2025
+STU0510,Student 0510,ISE,9.7,"Data Analysis, React",Deloitte,6.98,Placed,2023
+STU0511,Student 0511,CSE,7.99,"Java, SQL, React, Python",Infosys,7.23,Placed,2025
+STU0512,Student 0512,ME,6.61,"Excel, AWS",Infosys,4.74,Placed,2023
+STU0513,Student 0513,CIVIL,6.72,"React, Excel",Google,17.89,Placed,2025
+STU0514,Student 0514,ECE,5.58,"Excel, AWS, Machine Learning",Not Placed,0.0,Not Placed,2026
+STU0515,Student 0515,ECE,6.04,"Data Analysis, SQL, AutoCAD",Oracle,15.06,Placed,2022
+STU0516,Student 0516,ME,7.18,"C++, AutoCAD, AWS, SQL",Not Placed,0.0,Not Placed,2023
+STU0517,Student 0517,ME,7.38,"Excel, C++, AutoCAD",Oracle,17.81,Placed,2025
+STU0518,Student 0518,CIVIL,6.05,AutoCAD,Cognizant,6.81,Placed,2022
+STU0519,Student 0519,CIVIL,5.99,"SQL, Python",Tech Mahindra,7.44,Placed,2025
+STU0520,Student 0520,ME,9.74,"Excel, Data Analysis, SQL",Capgemini,6.65,Placed,2026
+STU0521,Student 0521,CSE,9.64,"Data Analysis, C++",Accenture,7.18,Placed,2022
+STU0522,Student 0522,ISE,7.36,Excel,Not Placed,0.0,Not Placed,2025
+STU0523,Student 0523,ME,8.3,"SQL, AutoCAD",Not Placed,0.0,Not Placed,2025
+STU0524,Student 0524,ME,9.67,"React, Machine Learning",L&T,6.56,Placed,2023
+STU0525,Student 0525,ME,9.16,Python,Infosys,4.82,Placed,2026
+STU0526,Student 0526,EEE,6.6,"React, Machine Learning, AWS, Excel",Not Placed,0.0,Not Placed,2023
+STU0527,Student 0527,EEE,6.82,"C++, AWS",IBM,7.87,Placed,2022
+STU0528,Student 0528,EEE,7.15,"AWS, AutoCAD, Data Analysis",Tech Mahindra,4.81,Placed,2025
+STU0529,Student 0529,ISE,6.15,"Java, JavaScript, Data Analysis",Google,22.06,Placed,2023
+STU0530,Student 0530,ECE,8.02,"AWS, Excel",IBM,9.26,Placed,2023
+STU0531,Student 0531,ME,5.57,"Machine Learning, AWS",Not Placed,0.0,Not Placed,2026
+STU0532,Student 0532,EEE,6.66,Data Analysis,Not Placed,0.0,Not Placed,2026
+STU0533,Student 0533,ISE,6.72,"JavaScript, AWS",Not Placed,0.0,Not Placed,2023
+STU0534,Student 0534,ECE,7.64,"Java, AutoCAD, JavaScript",Not Placed,0.0,Not Placed,2023
+STU0535,Student 0535,ISE,5.82,"JavaScript, React, AWS",Deloitte,9.78,Placed,2026
+STU0536,Student 0536,EEE,5.75,"C++, Machine Learning, Java, React",Not Placed,0.0,Not Placed,2026
+STU0537,Student 0537,CIVIL,9.48,Data Analysis,Not Placed,0.0,Not Placed,2023
+STU0538,Student 0538,ECE,9.38,Data Analysis,Capgemini,7.78,Placed,2024
+STU0539,Student 0539,CSE,8.52,"Data Analysis, C++, Python, Machine Learning",Capgemini,4.96,Placed,2025
+STU0540,Student 0540,CSE,7.98,"Excel, Data Analysis",Not Placed,0.0,Not Placed,2025
+STU0541,Student 0541,ME,8.62,"Data Analysis, AutoCAD, JavaScript",Not Placed,0.0,Not Placed,2023
+STU0542,Student 0542,CSE,9.92,"AutoCAD, Java, AWS, C++",Deloitte,13.73,Placed,2026
+STU0543,Student 0543,CSE,7.75,Data Analysis,Amazon,15.75,Placed,2023
+STU0544,Student 0544,CSE,6.72,"Excel, Java, Python",Capgemini,7.91,Placed,2022
+STU0545,Student 0545,CSE,7.28,"Excel, Java, React, C++",Not Placed,0.0,Not Placed,2022
+STU0546,Student 0546,ME,8.28,"SQL, AWS",Capgemini,7.01,Placed,2024
+STU0547,Student 0547,CSE,5.84,"AutoCAD, JavaScript",Not Placed,0.0,Not Placed,2022
+STU0548,Student 0548,CSE,8.0,"Python, Machine Learning, Java",Capgemini,6.05,Placed,2022
+STU0549,Student 0549,CSE,7.87,"AutoCAD, Python, JavaScript, AWS",Deloitte,8.64,Placed,2024
+STU0550,Student 0550,CSE,6.73,"Java, Machine Learning, AutoCAD, SQL",IBM,6.22,Placed,2024
+STU0551,Student 0551,EEE,6.7,"Excel, React, Java, C++",Microsoft,31.03,Placed,2026
+STU0552,Student 0552,ECE,8.1,"React, Data Analysis",Google,19.41,Placed,2024
+STU0553,Student 0553,ECE,9.86,Python,Amazon,23.31,Placed,2024
+STU0554,Student 0554,CSE,7.4,"Machine Learning, Python, SQL",Not Placed,0.0,Not Placed,2022
+STU0555,Student 0555,ECE,7.01,"AutoCAD, JavaScript",Cognizant,7.15,Placed,2024
+STU0556,Student 0556,CIVIL,6.26,"Excel, Java, C++, React",Not Placed,0.0,Not Placed,2026
+STU0557,Student 0557,ECE,9.71,"Python, SQL, C++, JavaScript",Deloitte,10.04,Placed,2022
+STU0558,Student 0558,CSE,8.9,"AWS, Machine Learning, SQL",Not Placed,0.0,Not Placed,2025
+STU0559,Student 0559,CSE,8.8,"AWS, C++",Wipro,7.16,Placed,2025
+STU0560,Student 0560,CIVIL,8.23,AWS,Oracle,16.15,Placed,2022
+STU0561,Student 0561,ECE,9.48,Data Analysis,Wipro,7.95,Placed,2026
+STU0562,Student 0562,ME,7.81,"Python, JavaScript, AutoCAD",Not Placed,0.0,Not Placed,2024
+STU0563,Student 0563,EEE,9.13,"SQL, Machine Learning, React",TCS,5.75,Placed,2025
+STU0564,Student 0564,CIVIL,7.53,"C++, JavaScript",Not Placed,0.0,Not Placed,2025
+STU0565,Student 0565,EEE,8.71,Data Analysis,Not Placed,0.0,Not Placed,2025
+STU0566,Student 0566,ISE,9.78,"Data Analysis, JavaScript",Accenture,8.34,Placed,2024
+STU0567,Student 0567,ME,6.37,AWS,Not Placed,0.0,Not Placed,2023
+STU0568,Student 0568,ISE,8.04,"Java, JavaScript, Excel",Google,26.13,Placed,2024
+STU0569,Student 0569,CIVIL,6.1,"SQL, Python, C++",Not Placed,0.0,Not Placed,2022
+STU0570,Student 0570,CSE,5.71,"JavaScript, SQL, React",Not Placed,0.0,Not Placed,2024
+STU0571,Student 0571,CIVIL,8.34,"C++, SQL",TCS,4.89,Placed,2025
+STU0572,Student 0572,ISE,9.12,"Machine Learning, JavaScript",Bosch,8.48,Placed,2022
+STU0573,Student 0573,ISE,9.14,AWS,Not Placed,0.0,Not Placed,2025
+STU0574,Student 0574,ECE,7.17,"SQL, Data Analysis",Not Placed,0.0,Not Placed,2024
+STU0575,Student 0575,ME,6.67,"Data Analysis, React",Accenture,7.83,Placed,2026
+STU0576,Student 0576,ISE,5.96,"React, Java, AWS",Wipro,6.64,Placed,2025
+STU0577,Student 0577,ME,6.75,"Python, Excel, C++, Java",Not Placed,0.0,Not Placed,2026
+STU0578,Student 0578,ME,9.75,"Excel, Data Analysis, JavaScript",Cognizant,5.92,Placed,2022
+STU0579,Student 0579,ECE,8.76,"Data Analysis, AWS",Accenture,8.75,Placed,2022
+STU0580,Student 0580,ME,6.57,"AutoCAD, JavaScript",Wipro,7.17,Placed,2026
+STU0581,Student 0581,CIVIL,7.26,"C++, AWS",Capgemini,6.62,Placed,2023
+STU0582,Student 0582,EEE,8.41,C++,IBM,5.79,Placed,2025
+STU0583,Student 0583,EEE,7.91,"AWS, SQL, Data Analysis, Machine Learning",Amazon,11.52,Placed,2024
+STU0584,Student 0584,EEE,5.88,"AutoCAD, Data Analysis, SQL, Excel",Not Placed,0.0,Not Placed,2023
+STU0585,Student 0585,ISE,9.42,"SQL, AWS, Python",Accenture,10.08,Placed,2025
+STU0586,Student 0586,ME,7.54,"Data Analysis, React, AutoCAD, AWS",Tech Mahindra,7.27,Placed,2023
+STU0587,Student 0587,ECE,8.63,C++,Bosch,11.69,Placed,2025
+STU0588,Student 0588,ISE,9.37,"AutoCAD, JavaScript",Amazon,25.21,Placed,2024
+STU0589,Student 0589,ISE,9.28,JavaScript,Not Placed,0.0,Not Placed,2023
+STU0590,Student 0590,CIVIL,7.85,JavaScript,Not Placed,0.0,Not Placed,2022
+STU0591,Student 0591,CIVIL,6.4,"Python, Java, Excel, React",Tech Mahindra,5.36,Placed,2023
+STU0592,Student 0592,CIVIL,9.42,"Machine Learning, React",L&T,6.51,Placed,2022
+STU0593,Student 0593,ME,6.95,"AutoCAD, AWS, Machine Learning",Not Placed,0.0,Not Placed,2022
+STU0594,Student 0594,EEE,7.11,React,TCS,6.47,Placed,2024
+STU0595,Student 0595,CSE,6.31,"SQL, Excel, React, JavaScript",Not Placed,0.0,Not Placed,2023
+STU0596,Student 0596,ISE,7.69,"Data Analysis, AutoCAD, Machine Learning",Wipro,4.64,Placed,2022
+STU0597,Student 0597,ME,6.65,"Data Analysis, AutoCAD, Excel",Not Placed,0.0,Not Placed,2024
+STU0598,Student 0598,EEE,8.55,"AutoCAD, SQL, JavaScript, Data Analysis",IBM,7.92,Placed,2024
+STU0599,Student 0599,ME,6.79,"React, Machine Learning",Accenture,9.63,Placed,2024
+STU0600,Student 0600,ISE,7.81,"Python, React, Data Analysis, Excel",Oracle,11.56,Placed,2026
+STU0601,Student 0601,ISE,5.54,"C++, JavaScript",Google,20.22,Placed,2024
+STU0602,Student 0602,CSE,8.14,React,Not Placed,0.0,Not Placed,2026
+STU0603,Student 0603,CIVIL,6.18,React,Not Placed,0.0,Not Placed,2024
+STU0604,Student 0604,CIVIL,8.45,"AutoCAD, React, JavaScript, Python",TCS,6.92,Placed,2025
+STU0605,Student 0605,CIVIL,9.75,"React, JavaScript, Java",Infosys,4.69,Placed,2024
+STU0606,Student 0606,EEE,8.4,"Excel, AWS, Python, SQL",Capgemini,6.41,Placed,2024
+STU0607,Student 0607,EEE,8.28,"Python, React, Excel",IBM,5.66,Placed,2024
+STU0608,Student 0608,ME,7.16,Python,Accenture,7.57,Placed,2024
+STU0609,Student 0609,ECE,8.78,"C++, Data Analysis, Excel, AutoCAD",L&T,5.56,Placed,2023
+STU0610,Student 0610,CIVIL,6.34,Excel,Oracle,17.46,Placed,2023
+STU0611,Student 0611,CSE,9.61,"Java, React, Excel, JavaScript",Deloitte,11.68,Placed,2026
+STU0612,Student 0612,CSE,9.21,"Machine Learning, AutoCAD, Python",Not Placed,0.0,Not Placed,2024
+STU0613,Student 0613,CSE,7.13,"Machine Learning, Python, SQL, AWS",Wipro,7.57,Placed,2024
+STU0614,Student 0614,CIVIL,5.52,"AutoCAD, Machine Learning",Not Placed,0.0,Not Placed,2023
+STU0615,Student 0615,CSE,8.56,"SQL, AWS, Data Analysis",Capgemini,7.26,Placed,2026
+STU0616,Student 0616,CSE,7.39,Excel,Oracle,8.99,Placed,2022
+STU0617,Student 0617,ECE,7.32,"AWS, Python, C++, Machine Learning",Not Placed,0.0,Not Placed,2023
+STU0618,Student 0618,ME,6.05,Python,Bosch,5.31,Placed,2025
+STU0619,Student 0619,CSE,9.02,"AWS, React",Google,25.86,Placed,2022
+STU0620,Student 0620,CIVIL,6.47,"React, JavaScript, AutoCAD, C++",Not Placed,0.0,Not Placed,2023
+STU0621,Student 0621,CIVIL,7.94,"C++, AutoCAD",Amazon,17.95,Placed,2026
+STU0622,Student 0622,CIVIL,7.14,"Data Analysis, Java, C++",Not Placed,0.0,Not Placed,2022
+STU0623,Student 0623,CSE,8.24,"AWS, Java, Data Analysis",Not Placed,0.0,Not Placed,2023
+STU0624,Student 0624,ISE,8.34,"AutoCAD, Machine Learning",Not Placed,0.0,Not Placed,2022
+STU0625,Student 0625,ISE,7.87,"AutoCAD, Python, React, JavaScript",Not Placed,0.0,Not Placed,2026
+STU0626,Student 0626,ECE,5.95,"AWS, C++, JavaScript",Not Placed,0.0,Not Placed,2023
+STU0627,Student 0627,CSE,6.62,"Java, React, C++",Not Placed,0.0,Not Placed,2022
+STU0628,Student 0628,CIVIL,9.47,"Java, Data Analysis",Bosch,11.97,Placed,2025
+STU0629,Student 0629,EEE,7.57,Python,Microsoft,32.36,Placed,2023
+STU0630,Student 0630,EEE,8.42,"Data Analysis, Machine Learning, Java, JavaScript",Oracle,11.65,Placed,2025
+STU0631,Student 0631,CSE,8.51,"Machine Learning, Python",Accenture,7.02,Placed,2025
+STU0632,Student 0632,CSE,7.48,"React, Data Analysis, C++, AWS",Cognizant,6.94,Placed,2025
+STU0633,Student 0633,CIVIL,5.57,Java,Not Placed,0.0,Not Placed,2022
+STU0634,Student 0634,ME,8.45,"Excel, SQL",Not Placed,0.0,Not Placed,2025
+STU0635,Student 0635,EEE,8.7,C++,L&T,5.64,Placed,2023
+STU0636,Student 0636,CIVIL,7.83,"Java, Data Analysis, Python, C++",Microsoft,18.77,Placed,2023
+STU0637,Student 0637,CIVIL,9.64,Machine Learning,Amazon,21.53,Placed,2023
+STU0638,Student 0638,CIVIL,7.39,"SQL, C++, Java",Oracle,10.74,Placed,2022
+STU0639,Student 0639,EEE,7.47,"SQL, Java, Data Analysis, AWS",Cognizant,6.55,Placed,2022
+STU0640,Student 0640,ISE,6.65,"React, Excel, Java",Microsoft,15.45,Placed,2022
+STU0641,Student 0641,CIVIL,8.56,"JavaScript, Java, Excel, Python",Not Placed,0.0,Not Placed,2023
+STU0642,Student 0642,ME,5.62,"SQL, C++, Data Analysis, Excel",Not Placed,0.0,Not Placed,2026
+STU0643,Student 0643,ISE,7.96,"Data Analysis, React, Java",Tech Mahindra,7.42,Placed,2024
+STU0644,Student 0644,ISE,6.71,"SQL, JavaScript, AutoCAD, Excel",Accenture,8.18,Placed,2025
+STU0645,Student 0645,CSE,6.64,"Excel, JavaScript, Machine Learning, Python",Not Placed,0.0,Not Placed,2025
+STU0646,Student 0646,ECE,6.14,"Data Analysis, Machine Learning",Deloitte,6.41,Placed,2025
+STU0647,Student 0647,CSE,9.51,C++,Amazon,19.36,Placed,2026
+STU0648,Student 0648,ISE,5.77,"AWS, Java, React, JavaScript",Not Placed,0.0,Not Placed,2026
+STU0649,Student 0649,CSE,6.25,"Python, SQL",Not Placed,0.0,Not Placed,2022
+STU0650,Student 0650,ECE,8.8,"JavaScript, C++, SQL, Data Analysis",Microsoft,26.55,Placed,2026
+STU0651,Student 0651,EEE,7.92,"Python, SQL, AWS",Not Placed,0.0,Not Placed,2024
+STU0652,Student 0652,CIVIL,9.8,"AutoCAD, Excel, AWS, JavaScript",Not Placed,0.0,Not Placed,2022
+STU0653,Student 0653,CSE,6.57,"AutoCAD, Python, C++",Not Placed,0.0,Not Placed,2025
+STU0654,Student 0654,ECE,8.14,"Python, Excel",Not Placed,0.0,Not Placed,2025
+STU0655,Student 0655,CIVIL,6.13,"SQL, C++",Infosys,8.49,Placed,2025
+STU0656,Student 0656,ISE,6.34,"SQL, Java, Machine Learning, Data Analysis",Not Placed,0.0,Not Placed,2022
+STU0657,Student 0657,ECE,6.06,"C++, AutoCAD",Not Placed,0.0,Not Placed,2026
+STU0658,Student 0658,ME,9.82,"Python, AutoCAD, AWS, Machine Learning",IBM,7.84,Placed,2022
+STU0659,Student 0659,CIVIL,5.97,"React, Excel, Machine Learning",Not Placed,0.0,Not Placed,2025
+STU0660,Student 0660,ISE,8.99,"AWS, Java, C++",TCS,6.73,Placed,2025
+STU0661,Student 0661,EEE,7.37,"AutoCAD, AWS",Not Placed,0.0,Not Placed,2024
+STU0662,Student 0662,ME,7.45,Java,Oracle,13.31,Placed,2023
+STU0663,Student 0663,EEE,5.91,"React, Data Analysis, SQL, AWS",Not Placed,0.0,Not Placed,2024
+STU0664,Student 0664,ME,8.1,"Excel, SQL, JavaScript, Machine Learning",Oracle,10.11,Placed,2025
+STU0665,Student 0665,EEE,8.76,"Machine Learning, AWS",Not Placed,0.0,Not Placed,2022
+STU0666,Student 0666,CSE,7.26,"Python, Excel, JavaScript, C++",Oracle,16.55,Placed,2024
+STU0667,Student 0667,ECE,6.21,"Java, AutoCAD, Python, C++",Not Placed,0.0,Not Placed,2023
+STU0668,Student 0668,CIVIL,9.69,"AWS, Data Analysis, Java, C++",Bosch,10.87,Placed,2023
+STU0669,Student 0669,ISE,9.7,"Machine Learning, SQL",Microsoft,18.63,Placed,2026
+STU0670,Student 0670,CSE,6.81,"AutoCAD, C++, SQL, Python",IBM,7.32,Placed,2022
+STU0671,Student 0671,ISE,6.69,"SQL, AWS, Java",Not Placed,0.0,Not Placed,2022
+STU0672,Student 0672,CSE,9.77,"Machine Learning, React",TCS,5.96,Placed,2026
+STU0673,Student 0673,ISE,8.09,"C++, JavaScript, Data Analysis, Machine Learning",Microsoft,28.5,Placed,2024
+STU0674,Student 0674,ME,6.07,"AutoCAD, Python, Machine Learning, Data Analysis",Amazon,12.28,Placed,2026
+STU0675,Student 0675,ECE,9.22,"Excel, Python",Microsoft,18.31,Placed,2023
+STU0676,Student 0676,EEE,5.79,"Python, Java",Not Placed,0.0,Not Placed,2025
+STU0677,Student 0677,ISE,9.78,"Python, SQL, AWS, Machine Learning",Tech Mahindra,7.06,Placed,2026
+STU0678,Student 0678,EEE,7.87,"AutoCAD, Python, AWS, C++",Amazon,19.85,Placed,2023
+STU0679,Student 0679,ME,6.41,"Data Analysis, C++, JavaScript",Accenture,5.15,Placed,2025
+STU0680,Student 0680,CIVIL,9.3,"SQL, C++, Machine Learning",TCS,8.53,Placed,2022
+STU0681,Student 0681,EEE,9.1,"SQL, Excel, C++, Machine Learning",Infosys,4.82,Placed,2024
+STU0682,Student 0682,ME,6.89,"SQL, JavaScript, C++, AWS",IBM,9.17,Placed,2026
+STU0683,Student 0683,ISE,7.11,"SQL, JavaScript, AutoCAD",Not Placed,0.0,Not Placed,2023
+STU0684,Student 0684,ISE,8.85,"C++, Excel, Machine Learning, AutoCAD",Not Placed,0.0,Not Placed,2026
+STU0685,Student 0685,EEE,7.08,"Data Analysis, Excel",Bosch,9.37,Placed,2024
+STU0686,Student 0686,ISE,9.9,"C++, Python",Google,33.13,Placed,2023
+STU0687,Student 0687,CIVIL,9.97,"Data Analysis, AutoCAD, JavaScript",Microsoft,19.47,Placed,2023
+STU0688,Student 0688,CSE,8.69,"SQL, C++, JavaScript",Oracle,14.26,Placed,2025
+STU0689,Student 0689,CSE,7.14,JavaScript,Amazon,22.89,Placed,2024
+STU0690,Student 0690,ISE,5.85,"Java, Python",Not Placed,0.0,Not Placed,2022
+STU0691,Student 0691,CSE,7.48,"JavaScript, Java, Excel, Data Analysis",Not Placed,0.0,Not Placed,2022
+STU0692,Student 0692,EEE,5.91,"Machine Learning, Data Analysis",Not Placed,0.0,Not Placed,2024
+STU0693,Student 0693,ISE,7.52,"Excel, SQL, React, JavaScript",Capgemini,6.15,Placed,2024
+STU0694,Student 0694,ECE,6.78,AutoCAD,Oracle,17.2,Placed,2023
+STU0695,Student 0695,EEE,8.43,Python,Bosch,9.37,Placed,2026
+STU0696,Student 0696,ISE,5.85,Python,Not Placed,0.0,Not Placed,2023
+STU0697,Student 0697,ME,6.2,Java,Oracle,8.53,Placed,2026
+STU0698,Student 0698,ECE,9.19,C++,IBM,8.15,Placed,2022
+STU0699,Student 0699,CSE,8.46,"Python, C++",Not Placed,0.0,Not Placed,2023
+STU0700,Student 0700,ISE,7.62,"AWS, Java, Python, Data Analysis",Not Placed,0.0,Not Placed,2023
+STU0701,Student 0701,ME,7.94,"AWS, Excel, Data Analysis",Not Placed,0.0,Not Placed,2025
+STU0702,Student 0702,ECE,7.75,"Data Analysis, React, Python",Not Placed,0.0,Not Placed,2023
+STU0703,Student 0703,CSE,8.31,Python,Google,21.98,Placed,2025
+STU0704,Student 0704,CIVIL,8.29,SQL,Tech Mahindra,7.17,Placed,2024
+STU0705,Student 0705,EEE,5.82,"React, SQL",Not Placed,0.0,Not Placed,2024
+STU0706,Student 0706,ISE,6.91,"React, Excel, C++",Not Placed,0.0,Not Placed,2023
+STU0707,Student 0707,CIVIL,7.43,"Python, JavaScript, AWS",TCS,4.78,Placed,2024
+STU0708,Student 0708,CIVIL,9.13,C++,Deloitte,13.91,Placed,2025
+STU0709,Student 0709,EEE,5.86,"C++, SQL, Excel, AWS",Not Placed,0.0,Not Placed,2024
+STU0710,Student 0710,ME,5.84,Machine Learning,Wipro,7.35,Placed,2022
+STU0711,Student 0711,ISE,7.83,"AutoCAD, JavaScript, SQL, Machine Learning",Not Placed,0.0,Not Placed,2023
+STU0712,Student 0712,EEE,8.8,Machine Learning,Not Placed,0.0,Not Placed,2026
+STU0713,Student 0713,ME,9.83,"JavaScript, React, Excel, SQL",TCS,8.45,Placed,2026
+STU0714,Student 0714,ECE,9.87,"AWS, Data Analysis, Excel",Not Placed,0.0,Not Placed,2022
+STU0715,Student 0715,CSE,6.65,"Java, AutoCAD",Not Placed,0.0,Not Placed,2024
+STU0716,Student 0716,ISE,6.19,"Excel, AWS",Not Placed,0.0,Not Placed,2024
+STU0717,Student 0717,CIVIL,9.63,"Java, Excel, C++",Capgemini,5.16,Placed,2025
+STU0718,Student 0718,ME,5.95,"Java, AWS, React",Not Placed,0.0,Not Placed,2024
+STU0719,Student 0719,EEE,9.47,JavaScript,Not Placed,0.0,Not Placed,2025
+STU0720,Student 0720,CSE,9.65,Java,Wipro,6.94,Placed,2025
+STU0721,Student 0721,ME,6.65,"React, Data Analysis",Oracle,14.13,Placed,2022
+STU0722,Student 0722,ME,6.03,"C++, Excel",Accenture,6.41,Placed,2025
+STU0723,Student 0723,ISE,7.11,SQL,Tech Mahindra,7.66,Placed,2022
+STU0724,Student 0724,ME,6.26,"Machine Learning, SQL, AutoCAD",Google,20.54,Placed,2023
+STU0725,Student 0725,CSE,6.02,Java,Not Placed,0.0,Not Placed,2022
+STU0726,Student 0726,CIVIL,8.99,"React, C++, Python",L&T,6.31,Placed,2023
+STU0727,Student 0727,CSE,6.08,"Machine Learning, React, Data Analysis",Not Placed,0.0,Not Placed,2026
+STU0728,Student 0728,EEE,6.28,JavaScript,Cognizant,6.45,Placed,2026
+STU0729,Student 0729,CSE,5.86,"Python, SQL",Capgemini,4.56,Placed,2024
+STU0730,Student 0730,CIVIL,8.78,Machine Learning,IBM,11.64,Placed,2026
+STU0731,Student 0731,ME,5.83,"AWS, SQL, Python",Not Placed,0.0,Not Placed,2022
+STU0732,Student 0732,EEE,6.98,"AutoCAD, AWS",Not Placed,0.0,Not Placed,2024
+STU0733,Student 0733,ECE,5.93,"C++, React, JavaScript",Bosch,5.04,Placed,2025
+STU0734,Student 0734,EEE,6.19,"AutoCAD, SQL, React, Java",Not Placed,0.0,Not Placed,2022
+STU0735,Student 0735,CSE,8.74,"Excel, C++",Accenture,8.4,Placed,2022
+STU0736,Student 0736,EEE,6.96,Java,Not Placed,0.0,Not Placed,2022
+STU0737,Student 0737,ECE,7.08,"Data Analysis, C++",Wipro,4.91,Placed,2022
+STU0738,Student 0738,ECE,6.41,Machine Learning,Not Placed,0.0,Not Placed,2023
+STU0739,Student 0739,ECE,7.81,Machine Learning,Not Placed,0.0,Not Placed,2024
+STU0740,Student 0740,CIVIL,9.12,"Machine Learning, AWS, Data Analysis",Cognizant,6.39,Placed,2023
+STU0741,Student 0741,ME,9.19,Machine Learning,IBM,9.92,Placed,2026
+STU0742,Student 0742,EEE,7.65,"JavaScript, Data Analysis, AWS",Google,34.25,Placed,2025
+STU0743,Student 0743,EEE,9.97,Machine Learning,Amazon,17.45,Placed,2023
+STU0744,Student 0744,ECE,7.35,Excel,Accenture,9.22,Placed,2026
+STU0745,Student 0745,CIVIL,8.15,"Data Analysis, React, AutoCAD",Tech Mahindra,7.35,Placed,2024
+STU0746,Student 0746,ME,7.73,"AutoCAD, JavaScript",Amazon,13.95,Placed,2022
+STU0747,Student 0747,ME,9.76,"Data Analysis, Java",Bosch,10.35,Placed,2024
+STU0748,Student 0748,ISE,9.02,"Data Analysis, Java",Amazon,15.58,Placed,2022
+STU0749,Student 0749,ISE,8.39,AWS,Not Placed,0.0,Not Placed,2025
+STU0750,Student 0750,CIVIL,8.64,"C++, AWS",Not Placed,0.0,Not Placed,2024
+STU0751,Student 0751,CSE,7.57,React,L&T,7.52,Placed,2022
+STU0752,Student 0752,CIVIL,9.91,Data Analysis,Not Placed,0.0,Not Placed,2024
+STU0753,Student 0753,ECE,10.0,"C++, Machine Learning, SQL",Not Placed,0.0,Not Placed,2025
+STU0754,Student 0754,EEE,9.93,"Excel, AWS, C++",Infosys,8.87,Placed,2026
+STU0755,Student 0755,CSE,6.15,"Python, AWS, SQL",Not Placed,0.0,Not Placed,2026
+STU0756,Student 0756,CIVIL,7.33,"JavaScript, AutoCAD, React",Cognizant,7.1,Placed,2023
+STU0757,Student 0757,ECE,7.04,"AWS, Machine Learning",Cognizant,6.69,Placed,2024
+STU0758,Student 0758,EEE,7.06,"JavaScript, Python, C++",L&T,6.51,Placed,2022
+STU0759,Student 0759,ECE,6.95,"Data Analysis, JavaScript, Excel, C++",Deloitte,12.02,Placed,2024
+STU0760,Student 0760,CIVIL,9.9,Python,Bosch,11.31,Placed,2026
+STU0761,Student 0761,CIVIL,7.61,"Machine Learning, Java",IBM,7.61,Placed,2024
+STU0762,Student 0762,EEE,7.23,"AutoCAD, React, Machine Learning, Data Analysis",Not Placed,0.0,Not Placed,2025
+STU0763,Student 0763,EEE,9.42,JavaScript,TCS,5.23,Placed,2025
+STU0764,Student 0764,ECE,7.52,AutoCAD,Bosch,9.96,Placed,2025
+STU0765,Student 0765,EEE,8.23,"AutoCAD, Data Analysis, SQL",Capgemini,4.93,Placed,2022
+STU0766,Student 0766,ISE,9.33,JavaScript,Amazon,20.39,Placed,2024
+STU0767,Student 0767,ISE,6.11,"JavaScript, React, Java",Not Placed,0.0,Not Placed,2022
+STU0768,Student 0768,ME,7.63,"Excel, React",IBM,8.83,Placed,2026
+STU0769,Student 0769,ISE,7.57,"Data Analysis, Java, Excel",Not Placed,0.0,Not Placed,2024
+STU0770,Student 0770,ECE,6.37,"AWS, AutoCAD, Excel, C++",Not Placed,0.0,Not Placed,2022
+STU0771,Student 0771,CIVIL,7.56,"JavaScript, Excel, React, AutoCAD",Not Placed,0.0,Not Placed,2023
+STU0772,Student 0772,ME,8.68,"JavaScript, Excel",Not Placed,0.0,Not Placed,2025
+STU0773,Student 0773,ECE,8.64,"Machine Learning, React",Not Placed,0.0,Not Placed,2026
+STU0774,Student 0774,ME,5.64,"AWS, Excel",Not Placed,0.0,Not Placed,2023
+STU0775,Student 0775,EEE,8.42,"JavaScript, Java, Machine Learning, C++",Not Placed,0.0,Not Placed,2024
+STU0776,Student 0776,EEE,5.81,"SQL, C++, Python",Not Placed,0.0,Not Placed,2026
+STU0777,Student 0777,CSE,9.31,"Java, Excel, Data Analysis",Bosch,9.83,Placed,2022
+STU0778,Student 0778,ISE,6.05,"Data Analysis, JavaScript, Python, SQL",Amazon,21.52,Placed,2024
+STU0779,Student 0779,ME,8.86,"React, SQL, Excel",Google,19.24,Placed,2023
+STU0780,Student 0780,EEE,9.99,"JavaScript, Machine Learning, AutoCAD, Data Analysis",Oracle,18.4,Placed,2024
+STU0781,Student 0781,ECE,9.65,"Java, Data Analysis, Excel",IBM,7.42,Placed,2025
+STU0782,Student 0782,ECE,8.84,"Data Analysis, JavaScript, Python, AWS",Microsoft,19.33,Placed,2025
+STU0783,Student 0783,CIVIL,7.6,"Machine Learning, Java, SQL, JavaScript",TCS,4.18,Placed,2024
+STU0784,Student 0784,ME,6.11,"Data Analysis, AutoCAD, AWS, JavaScript",Not Placed,0.0,Not Placed,2024
+STU0785,Student 0785,EEE,7.76,"Data Analysis, C++",Deloitte,10.77,Placed,2026
+STU0786,Student 0786,CIVIL,8.53,"Machine Learning, AutoCAD, C++",Infosys,6.82,Placed,2026
+STU0787,Student 0787,ECE,9.09,"Data Analysis, SQL",Bosch,7.78,Placed,2025
+STU0788,Student 0788,ME,5.83,"Data Analysis, Java, JavaScript, React",Cognizant,6.83,Placed,2023
+STU0789,Student 0789,ME,7.85,"AWS, JavaScript, Data Analysis",Not Placed,0.0,Not Placed,2026
+STU0790,Student 0790,CIVIL,5.62,"AutoCAD, AWS",Cognizant,5.63,Placed,2023
+STU0791,Student 0791,EEE,8.77,"SQL, React",Infosys,5.36,Placed,2022
+STU0792,Student 0792,EEE,5.62,JavaScript,Oracle,13.64,Placed,2026
+STU0793,Student 0793,CSE,9.16,"JavaScript, Python, Data Analysis, AutoCAD",Infosys,5.8,Placed,2024
+STU0794,Student 0794,CSE,8.97,"SQL, Java, Excel",IBM,8.97,Placed,2026
+STU0795,Student 0795,CIVIL,6.76,"JavaScript, Excel, Python, AWS",Wipro,7.46,Placed,2024
+STU0796,Student 0796,ISE,9.1,"AWS, Data Analysis",Not Placed,0.0,Not Placed,2025
+STU0797,Student 0797,EEE,5.86,"SQL, C++",Capgemini,7.5,Placed,2024
+STU0798,Student 0798,EEE,7.57,React,Not Placed,0.0,Not Placed,2026
+STU0799,Student 0799,EEE,8.66,"Python, Machine Learning, Excel, AWS",Not Placed,0.0,Not Placed,2023
+STU0800,Student 0800,CSE,6.82,"Python, Excel",Not Placed,0.0,Not Placed,2024
+STU0801,Student 0801,ISE,8.47,"AutoCAD, SQL",Infosys,6.93,Placed,2022
+STU0802,Student 0802,ECE,7.56,"Java, Python, Excel",Deloitte,13.74,Placed,2024
+STU0803,Student 0803,ISE,7.56,Python,Not Placed,0.0,Not Placed,2022
+STU0804,Student 0804,ECE,6.94,"Data Analysis, SQL",Not Placed,0.0,Not Placed,2024
+STU0805,Student 0805,ISE,9.76,"React, Machine Learning",TCS,7.1,Placed,2023
+STU0806,Student 0806,CSE,9.52,"Excel, Data Analysis",Cognizant,6.98,Placed,2025
+STU0807,Student 0807,ECE,8.49,AutoCAD,Bosch,6.32,Placed,2024
+STU0808,Student 0808,ME,7.45,"Excel, C++",Google,26.46,Placed,2024
+STU0809,Student 0809,CSE,8.24,"Java, Excel",Not Placed,0.0,Not Placed,2025
+STU0810,Student 0810,EEE,6.59,JavaScript,Not Placed,0.0,Not Placed,2022
+STU0811,Student 0811,ME,5.8,"React, Data Analysis",Not Placed,0.0,Not Placed,2024
+STU0812,Student 0812,EEE,8.91,Machine Learning,Bosch,10.87,Placed,2025
+STU0813,Student 0813,CSE,9.27,Java,Deloitte,8.55,Placed,2022
+STU0814,Student 0814,ECE,9.2,"AWS, Python, Excel, C++",Oracle,12.34,Placed,2025
+STU0815,Student 0815,CSE,8.48,"Java, Python",Not Placed,0.0,Not Placed,2024
+STU0816,Student 0816,ME,8.0,"C++, JavaScript",Not Placed,0.0,Not Placed,2023
+STU0817,Student 0817,CSE,8.24,SQL,Bosch,10.4,Placed,2024
+STU0818,Student 0818,ME,6.61,"Data Analysis, SQL",Deloitte,12.74,Placed,2025
+STU0819,Student 0819,CSE,8.06,JavaScript,Infosys,6.7,Placed,2025
+STU0820,Student 0820,EEE,7.38,"AWS, SQL, AutoCAD",Oracle,10.4,Placed,2025
+STU0821,Student 0821,ECE,6.51,"AWS, Excel, Data Analysis, AutoCAD",Infosys,5.02,Placed,2024
+STU0822,Student 0822,ISE,6.64,"Python, SQL, C++, Java",Google,20.42,Placed,2025
+STU0823,Student 0823,ME,6.7,Python,Amazon,20.23,Placed,2025
+STU0824,Student 0824,ISE,5.62,"C++, Data Analysis, JavaScript",Not Placed,0.0,Not Placed,2026
+STU0825,Student 0825,CIVIL,6.73,React,Infosys,5.96,Placed,2024
+STU0826,Student 0826,ISE,7.86,Java,Capgemini,7.44,Placed,2023
+STU0827,Student 0827,ECE,5.82,"Data Analysis, Python, JavaScript",Not Placed,0.0,Not Placed,2025
+STU0828,Student 0828,CSE,9.48,"C++, Machine Learning, Java, React",Accenture,9.4,Placed,2025
+STU0829,Student 0829,EEE,8.96,"Java, AWS",Capgemini,7.6,Placed,2026
+STU0830,Student 0830,ECE,5.69,Machine Learning,Infosys,7.79,Placed,2022
+STU0831,Student 0831,ECE,9.6,"Java, Machine Learning, Excel, Python",Deloitte,10.39,Placed,2023
+STU0832,Student 0832,CSE,9.71,"C++, JavaScript, Python",TCS,6.04,Placed,2023
+STU0833,Student 0833,CSE,9.54,JavaScript,Infosys,8.21,Placed,2025
+STU0834,Student 0834,ECE,9.32,"AWS, React",Accenture,8.65,Placed,2026
+STU0835,Student 0835,CIVIL,9.88,"Python, SQL, Excel",Deloitte,12.07,Placed,2024
+STU0836,Student 0836,ME,8.22,"SQL, Excel, Data Analysis, Python",Capgemini,4.46,Placed,2026
+STU0837,Student 0837,ME,8.47,"C++, AWS",Microsoft,33.29,Placed,2026
+STU0838,Student 0838,ISE,8.42,"AutoCAD, Data Analysis, AWS, React",Google,24.78,Placed,2024
+STU0839,Student 0839,ISE,6.15,"Excel, AWS",Oracle,9.75,Placed,2023
+STU0840,Student 0840,EEE,8.91,Data Analysis,Amazon,18.53,Placed,2024
+STU0841,Student 0841,ECE,5.83,"AutoCAD, Machine Learning, Python",Bosch,7.59,Placed,2024
+STU0842,Student 0842,ME,7.56,"Data Analysis, Excel, Java",Amazon,20.48,Placed,2023
+STU0843,Student 0843,CIVIL,9.39,"Excel, SQL",Not Placed,0.0,Not Placed,2024
+STU0844,Student 0844,ISE,8.95,"JavaScript, Java, C++",Infosys,7.09,Placed,2026
+STU0845,Student 0845,EEE,7.97,"Data Analysis, Java, AWS, AutoCAD",Capgemini,4.95,Placed,2025
+STU0846,Student 0846,CIVIL,9.7,"Python, AutoCAD, Data Analysis",IBM,10.12,Placed,2025
+STU0847,Student 0847,ISE,7.07,"SQL, JavaScript, AutoCAD, Data Analysis",Not Placed,0.0,Not Placed,2026
+STU0848,Student 0848,EEE,7.06,"Excel, Java, AutoCAD",Amazon,16.66,Placed,2022
+STU0849,Student 0849,ME,8.76,Excel,Not Placed,0.0,Not Placed,2023
+STU0850,Student 0850,CIVIL,9.51,"Excel, AWS, React, JavaScript",TCS,6.82,Placed,2023
+STU0851,Student 0851,ME,8.04,"AWS, Python, C++",Tech Mahindra,5.7,Placed,2026
+STU0852,Student 0852,ISE,5.82,AWS,Not Placed,0.0,Not Placed,2025
+STU0853,Student 0853,EEE,6.59,"Excel, Data Analysis, C++, AutoCAD",Microsoft,26.52,Placed,2024
+STU0854,Student 0854,ISE,7.71,"React, AWS, AutoCAD, Excel",Not Placed,0.0,Not Placed,2022
+STU0855,Student 0855,ISE,9.26,"JavaScript, SQL, C++",Tech Mahindra,4.84,Placed,2022
+STU0856,Student 0856,CIVIL,7.68,"AutoCAD, C++",Capgemini,5.53,Placed,2024
+STU0857,Student 0857,ECE,9.69,"AutoCAD, JavaScript, Java, Python",Not Placed,0.0,Not Placed,2024
+STU0858,Student 0858,ISE,6.51,"Python, C++",Deloitte,9.6,Placed,2025
+STU0859,Student 0859,CSE,9.27,"AWS, Machine Learning, Data Analysis",Microsoft,32.5,Placed,2026
+STU0860,Student 0860,EEE,9.9,AWS,Tech Mahindra,4.8,Placed,2023
+STU0861,Student 0861,CIVIL,6.85,"React, Java, Data Analysis, Excel",Tech Mahindra,6.47,Placed,2026
+STU0862,Student 0862,EEE,7.21,Python,L&T,7.59,Placed,2024
+STU0863,Student 0863,ME,7.93,"SQL, AWS",Not Placed,0.0,Not Placed,2026
+STU0864,Student 0864,CIVIL,9.8,"Java, AWS",Cognizant,6.19,Placed,2023
+STU0865,Student 0865,ISE,9.57,"C++, AutoCAD",Not Placed,0.0,Not Placed,2023
+STU0866,Student 0866,CSE,7.01,"Java, C++",Oracle,16.19,Placed,2022
+STU0867,Student 0867,EEE,6.45,Data Analysis,Not Placed,0.0,Not Placed,2023
+STU0868,Student 0868,ME,5.71,"AWS, C++, SQL, Machine Learning",Not Placed,0.0,Not Placed,2026
+STU0869,Student 0869,CSE,9.37,"AutoCAD, Data Analysis, SQL, AWS",Microsoft,34.27,Placed,2024
+STU0870,Student 0870,CSE,7.71,"Python, JavaScript, React",Google,25.0,Placed,2024
+STU0871,Student 0871,CIVIL,8.67,"C++, Java, AutoCAD",Not Placed,0.0,Not Placed,2023
+STU0872,Student 0872,CSE,8.32,Python,Google,26.05,Placed,2022
+STU0873,Student 0873,EEE,8.81,"AWS, Machine Learning",Oracle,17.51,Placed,2023
+STU0874,Student 0874,CIVIL,5.53,"C++, React, Python",Not Placed,0.0,Not Placed,2022
+STU0875,Student 0875,ISE,9.07,"Java, SQL, Python",Accenture,10.17,Placed,2025
+STU0876,Student 0876,CIVIL,8.24,Excel,Microsoft,22.31,Placed,2026
+STU0877,Student 0877,ME,6.78,JavaScript,L&T,5.97,Placed,2025
+STU0878,Student 0878,ME,8.35,"Java, Python, React",Not Placed,0.0,Not Placed,2026
+STU0879,Student 0879,EEE,8.29,"C++, SQL, React",Tech Mahindra,8.31,Placed,2026
+STU0880,Student 0880,EEE,5.58,"SQL, React, AWS, JavaScript",Google,31.99,Placed,2023
+STU0881,Student 0881,CSE,7.1,"C++, AutoCAD",Not Placed,0.0,Not Placed,2025
+STU0882,Student 0882,EEE,8.9,"Excel, Data Analysis, React, Machine Learning",L&T,6.96,Placed,2026
+STU0883,Student 0883,ECE,9.95,"SQL, React",Not Placed,0.0,Not Placed,2026
+STU0884,Student 0884,ME,9.81,Python,L&T,8.79,Placed,2023
+STU0885,Student 0885,CIVIL,9.28,"C++, Java",Wipro,6.64,Placed,2024
+STU0886,Student 0886,CIVIL,8.8,"AWS, AutoCAD, C++, JavaScript",Google,30.26,Placed,2026
+STU0887,Student 0887,EEE,7.68,"Python, AWS, Java",Not Placed,0.0,Not Placed,2023
+STU0888,Student 0888,ECE,5.66,"Python, SQL",Not Placed,0.0,Not Placed,2024
+STU0889,Student 0889,CSE,5.75,"JavaScript, Python",Amazon,15.16,Placed,2023
+STU0890,Student 0890,ME,5.84,"Machine Learning, React, C++, SQL",Not Placed,0.0,Not Placed,2025
+STU0891,Student 0891,CIVIL,8.54,"React, JavaScript, AWS",Deloitte,14.27,Placed,2024
+STU0892,Student 0892,CIVIL,9.51,"Excel, Python, C++, AWS",Not Placed,0.0,Not Placed,2022
+STU0893,Student 0893,ME,8.8,"Python, C++, AutoCAD, AWS",Not Placed,0.0,Not Placed,2026
+STU0894,Student 0894,ECE,9.35,"JavaScript, Machine Learning, Java, Excel",Not Placed,0.0,Not Placed,2026
+STU0895,Student 0895,ISE,5.7,"Java, AutoCAD",Not Placed,0.0,Not Placed,2022
+STU0896,Student 0896,ECE,5.77,"Excel, Python, Java",Not Placed,0.0,Not Placed,2024
+STU0897,Student 0897,ISE,6.28,"React, Data Analysis, AutoCAD",Not Placed,0.0,Not Placed,2026
+STU0898,Student 0898,EEE,9.18,"JavaScript, Java, AWS, C++",Infosys,7.01,Placed,2024
+STU0899,Student 0899,EEE,6.84,"Java, Machine Learning, Excel, React",TCS,6.8,Placed,2026
+STU0900,Student 0900,ME,9.04,"Java, Python, Excel, Data Analysis",IBM,5.96,Placed,2026
+STU0901,Student 0901,ISE,8.67,AWS,IBM,10.42,Placed,2022
+STU0902,Student 0902,ECE,5.88,"AWS, React, Excel",Infosys,6.1,Placed,2026
+STU0903,Student 0903,ECE,9.57,"JavaScript, Machine Learning, C++, Java",TCS,6.33,Placed,2022
+STU0904,Student 0904,CSE,6.58,"Java, JavaScript",Not Placed,0.0,Not Placed,2025
+STU0905,Student 0905,ME,7.46,"AutoCAD, React, C++",Not Placed,0.0,Not Placed,2024
+STU0906,Student 0906,CSE,8.83,Data Analysis,Cognizant,8.07,Placed,2026
+STU0907,Student 0907,CIVIL,6.22,"JavaScript, Machine Learning, AWS, AutoCAD",Not Placed,0.0,Not Placed,2022
+STU0908,Student 0908,CIVIL,7.62,"SQL, AutoCAD, JavaScript, Machine Learning",Cognizant,7.82,Placed,2026
+STU0909,Student 0909,EEE,7.59,"C++, Machine Learning",Not Placed,0.0,Not Placed,2022
+STU0910,Student 0910,ISE,7.44,"AWS, AutoCAD, Machine Learning, Python",Deloitte,8.02,Placed,2025
+STU0911,Student 0911,CIVIL,6.62,SQL,Not Placed,0.0,Not Placed,2026
+STU0912,Student 0912,EEE,6.96,"Java, Python",Not Placed,0.0,Not Placed,2024
+STU0913,Student 0913,EEE,7.76,"Python, React, C++",Not Placed,0.0,Not Placed,2022
+STU0914,Student 0914,CSE,5.61,"C++, Data Analysis",Not Placed,0.0,Not Placed,2024
+STU0915,Student 0915,CIVIL,9.43,"C++, Java, Excel, JavaScript",Capgemini,8.51,Placed,2025
+STU0916,Student 0916,ISE,7.95,"C++, Python, Machine Learning, Data Analysis",Deloitte,12.66,Placed,2023
+STU0917,Student 0917,CSE,6.09,Data Analysis,Cognizant,7.2,Placed,2022
+STU0918,Student 0918,CIVIL,9.7,"SQL, Java, Machine Learning",TCS,6.34,Placed,2022
+STU0919,Student 0919,EEE,8.16,"JavaScript, C++",Microsoft,28.15,Placed,2022
+STU0920,Student 0920,CSE,8.67,SQL,Oracle,14.86,Placed,2022
+STU0921,Student 0921,CIVIL,8.7,"C++, React, AWS, Machine Learning",Cognizant,8.96,Placed,2025
+STU0922,Student 0922,ISE,5.56,Data Analysis,Accenture,5.5,Placed,2025
+STU0923,Student 0923,CIVIL,9.26,"JavaScript, Machine Learning, Excel",Not Placed,0.0,Not Placed,2023
+STU0924,Student 0924,CIVIL,6.78,SQL,TCS,7.11,Placed,2025
+STU0925,Student 0925,ECE,7.81,"Data Analysis, SQL",Deloitte,10.22,Placed,2024
+STU0926,Student 0926,CIVIL,9.06,"Excel, Java, Machine Learning",Amazon,22.4,Placed,2022
+STU0927,Student 0927,ME,8.12,"JavaScript, Data Analysis, Machine Learning",Not Placed,0.0,Not Placed,2024
+STU0928,Student 0928,CSE,7.37,Java,Not Placed,0.0,Not Placed,2024
+STU0929,Student 0929,ISE,8.14,SQL,IBM,6.68,Placed,2024
+STU0930,Student 0930,EEE,9.31,"Excel, JavaScript",Not Placed,0.0,Not Placed,2022
+STU0931,Student 0931,ME,9.17,"SQL, AWS",Microsoft,35.3,Placed,2024
+STU0932,Student 0932,ECE,9.23,AutoCAD,L&T,6.7,Placed,2023
+STU0933,Student 0933,CIVIL,8.98,JavaScript,Not Placed,0.0,Not Placed,2023
+STU0934,Student 0934,CSE,6.62,"Python, C++",Not Placed,0.0,Not Placed,2022
+STU0935,Student 0935,ECE,5.86,"JavaScript, SQL",Not Placed,0.0,Not Placed,2023
+STU0936,Student 0936,ECE,8.07,AutoCAD,L&T,8.7,Placed,2023
+STU0937,Student 0937,ECE,8.54,AutoCAD,TCS,7.06,Placed,2022
+STU0938,Student 0938,ISE,8.0,React,Google,18.04,Placed,2022
+STU0939,Student 0939,CIVIL,7.8,"Java, SQL, Data Analysis",Google,18.24,Placed,2025
+STU0940,Student 0940,ECE,9.43,"SQL, Machine Learning, Excel",Google,16.69,Placed,2025
+STU0941,Student 0941,CSE,6.04,"JavaScript, C++, Java",Not Placed,0.0,Not Placed,2024
+STU0942,Student 0942,ME,9.21,"JavaScript, AWS, Java, SQL",Accenture,6.39,Placed,2022
+STU0943,Student 0943,CIVIL,6.4,"AutoCAD, SQL",Not Placed,0.0,Not Placed,2024
+STU0944,Student 0944,CSE,6.65,"JavaScript, Data Analysis",Bosch,5.14,Placed,2023
+STU0945,Student 0945,EEE,6.06,AutoCAD,Not Placed,0.0,Not Placed,2026
+STU0946,Student 0946,ISE,5.57,"Python, AWS, AutoCAD",Not Placed,0.0,Not Placed,2023
+STU0947,Student 0947,CSE,7.72,"C++, AutoCAD",Not Placed,0.0,Not Placed,2024
+STU0948,Student 0948,CIVIL,9.98,"Python, React, Java",Infosys,5.09,Placed,2023
+STU0949,Student 0949,EEE,6.51,"AutoCAD, SQL, Python",Capgemini,6.1,Placed,2024
+STU0950,Student 0950,EEE,6.23,"JavaScript, AWS, Java, Data Analysis",Google,32.43,Placed,2022
+STU0951,Student 0951,CIVIL,6.27,"AWS, Machine Learning, Data Analysis",Not Placed,0.0,Not Placed,2025
+STU0952,Student 0952,CIVIL,7.84,Machine Learning,Cognizant,7.62,Placed,2024
+STU0953,Student 0953,EEE,9.83,"Excel, JavaScript, React",Not Placed,0.0,Not Placed,2026
+STU0954,Student 0954,ISE,6.15,"Machine Learning, Python",Cognizant,8.42,Placed,2025
+STU0955,Student 0955,CSE,6.31,"Data Analysis, SQL",Not Placed,0.0,Not Placed,2024
+STU0956,Student 0956,ME,7.12,Excel,Not Placed,0.0,Not Placed,2026
+STU0957,Student 0957,CIVIL,7.24,"Excel, C++, Data Analysis",Accenture,9.06,Placed,2026
+STU0958,Student 0958,CSE,8.13,SQL,Not Placed,0.0,Not Placed,2022
+STU0959,Student 0959,ISE,9.02,Machine Learning,Not Placed,0.0,Not Placed,2022
+STU0960,Student 0960,ME,7.46,"Python, Machine Learning, AWS",Not Placed,0.0,Not Placed,2025
+STU0961,Student 0961,ISE,9.9,"Data Analysis, AutoCAD, Machine Learning, Excel",Infosys,7.1,Placed,2023
+STU0962,Student 0962,CIVIL,5.84,"Machine Learning, Java, SQL",Cognizant,6.26,Placed,2024
+STU0963,Student 0963,CIVIL,9.67,React,Bosch,12.28,Placed,2026
+STU0964,Student 0964,ME,8.13,"React, AutoCAD, Python, Machine Learning",TCS,7.68,Placed,2026
+STU0965,Student 0965,ME,8.99,"JavaScript, Excel, Java",Infosys,5.05,Placed,2026
+STU0966,Student 0966,EEE,9.86,"AutoCAD, AWS, Python, SQL",TCS,6.57,Placed,2024
+STU0967,Student 0967,ECE,6.83,"Java, JavaScript, AutoCAD, Python",Not Placed,0.0,Not Placed,2023
+STU0968,Student 0968,ISE,9.44,"JavaScript, AutoCAD, C++",Wipro,5.94,Placed,2024
+STU0969,Student 0969,ME,7.14,"Machine Learning, JavaScript, React",Accenture,6.02,Placed,2023
+STU0970,Student 0970,ISE,5.68,SQL,Not Placed,0.0,Not Placed,2024
+STU0971,Student 0971,ECE,8.54,"Excel, Java, JavaScript",Not Placed,0.0,Not Placed,2026
+STU0972,Student 0972,CIVIL,5.85,"Excel, Machine Learning, JavaScript, Python",Not Placed,0.0,Not Placed,2025
+STU0973,Student 0973,EEE,8.1,"AWS, Python",Oracle,14.36,Placed,2024
+STU0974,Student 0974,CIVIL,5.88,"React, JavaScript, Excel",Not Placed,0.0,Not Placed,2026
+STU0975,Student 0975,ECE,8.76,"JavaScript, React",TCS,7.23,Placed,2026
+STU0976,Student 0976,CSE,8.58,"Java, React, AWS, Excel",Not Placed,0.0,Not Placed,2022
+STU0977,Student 0977,ME,6.73,"Excel, Python",Microsoft,24.0,Placed,2026
+STU0978,Student 0978,EEE,6.51,"C++, Excel, AutoCAD, SQL",Not Placed,0.0,Not Placed,2023
+STU0979,Student 0979,EEE,9.24,"AutoCAD, C++, Data Analysis, SQL",L&T,5.6,Placed,2023
+STU0980,Student 0980,CSE,7.42,"C++, AutoCAD",Deloitte,7.79,Placed,2025
+STU0981,Student 0981,CSE,8.12,"Python, AWS, Excel",Capgemini,7.18,Placed,2026
+STU0982,Student 0982,ME,5.54,"JavaScript, Machine Learning, C++",Not Placed,0.0,Not Placed,2026
+STU0983,Student 0983,CSE,6.36,"Data Analysis, React",Not Placed,0.0,Not Placed,2026
+STU0984,Student 0984,ME,8.01,"Data Analysis, Excel, C++",Not Placed,0.0,Not Placed,2024
+STU0985,Student 0985,ME,6.36,"AutoCAD, C++",Not Placed,0.0,Not Placed,2025
+STU0986,Student 0986,CSE,8.88,"Python, React",Wipro,4.95,Placed,2024
+STU0987,Student 0987,ECE,9.14,"AutoCAD, SQL",Accenture,7.47,Placed,2025
+STU0988,Student 0988,ISE,6.91,Java,Microsoft,16.65,Placed,2025
+STU0989,Student 0989,EEE,9.28,"Python, AutoCAD",Capgemini,6.78,Placed,2022
+STU0990,Student 0990,CIVIL,5.75,"Excel, Data Analysis, SQL, Machine Learning",Not Placed,0.0,Not Placed,2025
+STU0991,Student 0991,CIVIL,9.83,"C++, AutoCAD, Python, Machine Learning",IBM,11.62,Placed,2024
+STU0992,Student 0992,ECE,7.52,"SQL, React",Not Placed,0.0,Not Placed,2023
+STU0993,Student 0993,CIVIL,6.93,"JavaScript, Machine Learning, AutoCAD, SQL",Amazon,22.29,Placed,2023
+STU0994,Student 0994,CIVIL,7.7,"Excel, AWS, Java, JavaScript",Deloitte,8.54,Placed,2022
+STU0995,Student 0995,ME,8.76,C++,Google,20.9,Placed,2024
+STU0996,Student 0996,ECE,8.99,"JavaScript, AutoCAD",Oracle,12.7,Placed,2023
+STU0997,Student 0997,CSE,7.54,SQL,Infosys,5.69,Placed,2022
+STU0998,Student 0998,ISE,6.8,"React, Excel, JavaScript, AWS",L&T,7.41,Placed,2023
+STU0999,Student 0999,ME,7.13,"Excel, Machine Learning, AutoCAD, Python",Cognizant,5.13,Placed,2026
+STU1000,Student 1000,ECE,7.88,"Java, AutoCAD",Microsoft,18.26,Placed,2023
+STU1001,Student 1001,CIVIL,7.46,"C++, Excel",Capgemini,6.56,Placed,2023
+STU1002,Student 1002,CIVIL,9.32,"AWS, AutoCAD",Oracle,18.26,Placed,2023
+STU1003,Student 1003,ECE,5.94,"React, AutoCAD, Machine Learning",Cognizant,8.6,Placed,2025
+STU1004,Student 1004,ME,5.72,"Java, JavaScript",IBM,9.6,Placed,2022
+STU1005,Student 1005,EEE,5.94,"React, AWS, Excel",Google,31.84,Placed,2022
+STU1006,Student 1006,ISE,6.9,JavaScript,Google,33.31,Placed,2022
+STU1007,Student 1007,ISE,7.88,"JavaScript, Java, C++, Machine Learning",Oracle,8.62,Placed,2025
+STU1008,Student 1008,EEE,9.41,Machine Learning,Microsoft,27.87,Placed,2022
+STU1009,Student 1009,EEE,8.51,Data Analysis,Not Placed,0.0,Not Placed,2026
+STU1010,Student 1010,ISE,8.12,"AWS, Excel",Wipro,5.57,Placed,2025
+STU1011,Student 1011,ECE,7.96,"SQL, Excel",L&T,5.09,Placed,2025
+STU1012,Student 1012,CSE,7.95,Data Analysis,Oracle,17.21,Placed,2024
+STU1013,Student 1013,CIVIL,8.3,"React, Python",Not Placed,0.0,Not Placed,2022
+STU1014,Student 1014,ECE,7.07,SQL,Cognizant,4.73,Placed,2022
+STU1015,Student 1015,EEE,6.89,"Excel, Data Analysis",Oracle,14.08,Placed,2025
+STU1016,Student 1016,EEE,8.33,Data Analysis,IBM,5.82,Placed,2023
+STU1017,Student 1017,CSE,9.56,"Data Analysis, Python",L&T,5.98,Placed,2025
+STU1018,Student 1018,EEE,7.65,"AWS, JavaScript",TCS,6.93,Placed,2025
+STU1019,Student 1019,CIVIL,8.03,Python,Not Placed,0.0,Not Placed,2024
+STU1020,Student 1020,EEE,7.33,"Python, JavaScript, React, Excel",Not Placed,0.0,Not Placed,2025
+STU1021,Student 1021,CSE,8.96,"Java, Python, React",Tech Mahindra,7.65,Placed,2025
+STU1022,Student 1022,CSE,7.77,"React, AutoCAD",Not Placed,0.0,Not Placed,2025
+STU1023,Student 1023,CIVIL,6.46,"Python, Excel, Data Analysis",Not Placed,0.0,Not Placed,2024
+STU1024,Student 1024,ME,5.66,"Excel, Python",Capgemini,4.65,Placed,2024
+STU1025,Student 1025,CIVIL,8.57,React,Not Placed,0.0,Not Placed,2026
+STU1026,Student 1026,ISE,8.64,Excel,Wipro,7.35,Placed,2025
+STU1027,Student 1027,ME,7.61,AWS,IBM,10.65,Placed,2022
+STU1028,Student 1028,ECE,9.37,"Machine Learning, Python, JavaScript, SQL",Microsoft,24.74,Placed,2024
+STU1029,Student 1029,ISE,8.48,AutoCAD,Not Placed,0.0,Not Placed,2023
+STU1030,Student 1030,EEE,6.2,"Python, JavaScript",Not Placed,0.0,Not Placed,2024
+STU1031,Student 1031,ECE,7.49,"Data Analysis, JavaScript, Machine Learning",Oracle,12.29,Placed,2024
+STU1032,Student 1032,EEE,7.84,AutoCAD,Microsoft,35.08,Placed,2024
+STU1033,Student 1033,ECE,7.66,"Data Analysis, SQL, C++",Microsoft,31.18,Placed,2026
+STU1034,Student 1034,CIVIL,9.09,"Data Analysis, C++, JavaScript",Not Placed,0.0,Not Placed,2023
+STU1035,Student 1035,EEE,9.78,"Java, JavaScript, Python, Excel",Bosch,7.51,Placed,2025
+STU1036,Student 1036,EEE,8.76,"AutoCAD, Excel",Not Placed,0.0,Not Placed,2025
+STU1037,Student 1037,ECE,9.53,"Machine Learning, Python",Bosch,7.52,Placed,2022
+STU1038,Student 1038,ECE,8.43,"Python, React, AutoCAD",Not Placed,0.0,Not Placed,2025
+STU1039,Student 1039,ECE,6.28,Machine Learning,L&T,7.17,Placed,2025
+STU1040,Student 1040,CIVIL,6.27,"AutoCAD, React, Data Analysis",Wipro,5.44,Placed,2026
+STU1041,Student 1041,EEE,6.77,"JavaScript, AWS, Machine Learning",Infosys,5.4,Placed,2026
+STU1042,Student 1042,CSE,9.02,"Python, Data Analysis",Deloitte,11.64,Placed,2023
+STU1043,Student 1043,ISE,6.31,"Python, JavaScript, AutoCAD",Not Placed,0.0,Not Placed,2024
+STU1044,Student 1044,CIVIL,9.58,"C++, Java",IBM,12.05,Placed,2024
+STU1045,Student 1045,CSE,6.64,"React, Machine Learning",Not Placed,0.0,Not Placed,2026
+STU1046,Student 1046,ECE,9.72,"SQL, Java",Not Placed,0.0,Not Placed,2025
+STU1047,Student 1047,CSE,9.76,"JavaScript, Excel, Python, React",Deloitte,8.13,Placed,2024
+STU1048,Student 1048,CSE,7.25,"SQL, Java, Excel",Not Placed,0.0,Not Placed,2022
+STU1049,Student 1049,ISE,8.22,"AutoCAD, AWS",Not Placed,0.0,Not Placed,2023
+STU1050,Student 1050,CSE,7.75,"Python, AWS, Data Analysis",TCS,7.56,Placed,2022
+STU1051,Student 1051,ISE,5.83,"AutoCAD, Data Analysis, Machine Learning",IBM,6.15,Placed,2023
+STU1052,Student 1052,EEE,6.08,"Data Analysis, AutoCAD, SQL",Not Placed,0.0,Not Placed,2026
+STU1053,Student 1053,ME,7.94,Data Analysis,TCS,7.84,Placed,2026
+STU1054,Student 1054,ISE,6.82,"React, Data Analysis, AutoCAD, Excel",Not Placed,0.0,Not Placed,2022
+STU1055,Student 1055,ISE,7.73,"JavaScript, Machine Learning, Excel, AutoCAD",Not Placed,0.0,Not Placed,2024
+STU1056,Student 1056,ISE,8.28,"Data Analysis, Python, JavaScript, C++",Not Placed,0.0,Not Placed,2022
+STU1057,Student 1057,ME,7.46,"AWS, Python",Amazon,21.11,Placed,2025
+STU1058,Student 1058,ME,7.76,"AutoCAD, Python, React, JavaScript",Not Placed,0.0,Not Placed,2023
+STU1059,Student 1059,ECE,9.7,"Python, React, C++, Java",Oracle,10.13,Placed,2026
+STU1060,Student 1060,ME,7.63,SQL,Not Placed,0.0,Not Placed,2023
+STU1061,Student 1061,ME,8.24,React,Microsoft,21.38,Placed,2025
+STU1062,Student 1062,ME,8.9,"Data Analysis, SQL",Infosys,6.63,Placed,2025
+STU1063,Student 1063,ECE,9.27,"Machine Learning, AutoCAD",Google,25.42,Placed,2023
+STU1064,Student 1064,ME,5.51,"Excel, Python, AWS",Not Placed,0.0,Not Placed,2026
+STU1065,Student 1065,EEE,7.6,"C++, Excel, Java, SQL",Microsoft,15.53,Placed,2025
+STU1066,Student 1066,ECE,9.15,"Data Analysis, Python, AutoCAD, AWS",Amazon,20.17,Placed,2026
+STU1067,Student 1067,ISE,6.72,"Python, Java, React, SQL",Bosch,8.02,Placed,2024
+STU1068,Student 1068,ME,7.37,"React, Machine Learning, SQL, Python",Not Placed,0.0,Not Placed,2025
+STU1069,Student 1069,CSE,9.62,"Python, Excel, C++, AWS",Not Placed,0.0,Not Placed,2023
+STU1070,Student 1070,CSE,9.64,"AWS, AutoCAD",Infosys,7.44,Placed,2026
+STU1071,Student 1071,ECE,6.77,"Machine Learning, React, C++, JavaScript",Not Placed,0.0,Not Placed,2023
+STU1072,Student 1072,EEE,6.56,"Python, C++, React, SQL",Not Placed,0.0,Not Placed,2023
+STU1073,Student 1073,ECE,7.77,"React, AWS",Oracle,9.48,Placed,2026
+STU1074,Student 1074,ME,6.45,"C++, React, AutoCAD",Not Placed,0.0,Not Placed,2022
+STU1075,Student 1075,ECE,9.77,"Machine Learning, AWS, JavaScript, Excel",L&T,7.01,Placed,2023
+STU1076,Student 1076,ECE,8.38,"C++, Data Analysis, SQL",Oracle,12.75,Placed,2023
+STU1077,Student 1077,ECE,9.04,C++,Capgemini,6.13,Placed,2022
+STU1078,Student 1078,EEE,9.7,Python,Amazon,21.93,Placed,2022
+STU1079,Student 1079,CIVIL,6.82,"Excel, React, AutoCAD, Java",Google,29.51,Placed,2023
+STU1080,Student 1080,ME,5.58,"C++, AutoCAD",Cognizant,8.2,Placed,2022
+STU1081,Student 1081,ISE,6.39,"Data Analysis, React",Not Placed,0.0,Not Placed,2022
+STU1082,Student 1082,ME,8.65,Machine Learning,Not Placed,0.0,Not Placed,2022
+STU1083,Student 1083,CIVIL,7.17,"Java, Machine Learning",Cognizant,5.04,Placed,2024
+STU1084,Student 1084,CIVIL,5.52,"C++, React, AutoCAD",Not Placed,0.0,Not Placed,2025
+STU1085,Student 1085,ME,9.46,"Data Analysis, Python, React, JavaScript",Not Placed,0.0,Not Placed,2026
+STU1086,Student 1086,EEE,9.58,"SQL, AutoCAD, Excel, Machine Learning",Not Placed,0.0,Not Placed,2024
+STU1087,Student 1087,ECE,7.84,"Machine Learning, SQL",Deloitte,11.88,Placed,2026
+STU1088,Student 1088,CIVIL,6.15,"Python, Machine Learning, Data Analysis, SQL",Not Placed,0.0,Not Placed,2024
+STU1089,Student 1089,ECE,6.46,"SQL, Excel, Java, Python",Not Placed,0.0,Not Placed,2025
+STU1090,Student 1090,CIVIL,8.53,"Excel, Python, SQL, Machine Learning",Not Placed,0.0,Not Placed,2023
+STU1091,Student 1091,ME,8.24,Python,Infosys,6.54,Placed,2023
+STU1092,Student 1092,ECE,5.58,Java,Not Placed,0.0,Not Placed,2024
+STU1093,Student 1093,ISE,5.75,Machine Learning,Not Placed,0.0,Not Placed,2022
+STU1094,Student 1094,ME,8.89,Java,Not Placed,0.0,Not Placed,2023
+STU1095,Student 1095,EEE,7.63,React,Not Placed,0.0,Not Placed,2025
+STU1096,Student 1096,ECE,8.39,"Java, C++",Bosch,10.84,Placed,2024
+STU1097,Student 1097,CIVIL,5.67,"Data Analysis, C++, React",Not Placed,0.0,Not Placed,2022
+STU1098,Student 1098,ME,8.49,"JavaScript, AutoCAD, C++",Infosys,5.67,Placed,2024
+STU1099,Student 1099,ISE,6.42,SQL,Microsoft,28.65,Placed,2022
+STU1100,Student 1100,ME,9.73,"Machine Learning, Excel, AWS, Data Analysis",Cognizant,8.86,Placed,2022
+STU1101,Student 1101,CIVIL,7.75,"Machine Learning, Python, C++",Deloitte,8.35,Placed,2023
+STU1102,Student 1102,ME,7.03,"C++, Excel, Data Analysis",Not Placed,0.0,Not Placed,2024
+STU1103,Student 1103,EEE,5.61,"AutoCAD, Python",Accenture,9.1,Placed,2023
+STU1104,Student 1104,ECE,5.85,Machine Learning,IBM,6.7,Placed,2024
+STU1105,Student 1105,CSE,9.5,"Excel, SQL, Java",Infosys,8.87,Placed,2024
+STU1106,Student 1106,ISE,8.69,"JavaScript, AutoCAD, React, C++",Not Placed,0.0,Not Placed,2023
+STU1107,Student 1107,ISE,7.21,"Python, Machine Learning",TCS,6.16,Placed,2026
+STU1108,Student 1108,ECE,6.97,AWS,Accenture,8.08,Placed,2024
+STU1109,Student 1109,CSE,6.91,Excel,Not Placed,0.0,Not Placed,2024
+STU1110,Student 1110,ISE,9.15,AWS,TCS,5.41,Placed,2025
+STU1111,Student 1111,EEE,9.04,Excel,Deloitte,7.83,Placed,2024
+STU1112,Student 1112,CIVIL,6.34,"Data Analysis, Java, React",Not Placed,0.0,Not Placed,2023
+STU1113,Student 1113,EEE,8.06,React,Deloitte,8.18,Placed,2023
+STU1114,Student 1114,CSE,8.37,"AWS, JavaScript",Deloitte,9.34,Placed,2025
+STU1115,Student 1115,EEE,9.49,Data Analysis,L&T,8.54,Placed,2023
+STU1116,Student 1116,CIVIL,7.01,"SQL, Machine Learning, C++",Not Placed,0.0,Not Placed,2026
+STU1117,Student 1117,ISE,8.31,"C++, Data Analysis",L&T,8.76,Placed,2022
+STU1118,Student 1118,CSE,9.9,"AWS, Excel, Python",Accenture,10.22,Placed,2025
+STU1119,Student 1119,ME,9.29,Data Analysis,Deloitte,11.3,Placed,2023
+STU1120,Student 1120,ISE,8.49,"Machine Learning, AutoCAD",Google,20.78,Placed,2023
+STU1121,Student 1121,ME,8.25,React,Capgemini,6.06,Placed,2026
+STU1122,Student 1122,CSE,6.56,"AutoCAD, JavaScript",Not Placed,0.0,Not Placed,2026
+STU1123,Student 1123,CIVIL,6.13,Machine Learning,Bosch,9.09,Placed,2022
+STU1124,Student 1124,ME,9.07,"JavaScript, AutoCAD",Infosys,7.38,Placed,2024
+STU1125,Student 1125,EEE,7.79,"Data Analysis, React, C++",Accenture,7.35,Placed,2025
+STU1126,Student 1126,CSE,6.53,"JavaScript, AutoCAD, SQL",Not Placed,0.0,Not Placed,2023
+STU1127,Student 1127,ME,8.79,Java,Cognizant,6.97,Placed,2022
+STU1128,Student 1128,ECE,8.64,"AutoCAD, C++, Java",Not Placed,0.0,Not Placed,2024
+STU1129,Student 1129,CIVIL,7.65,"SQL, Excel, JavaScript, AutoCAD",IBM,11.46,Placed,2024
+STU1130,Student 1130,CIVIL,7.09,"C++, SQL",Capgemini,6.62,Placed,2023
+STU1131,Student 1131,EEE,9.13,SQL,IBM,8.32,Placed,2026
+STU1132,Student 1132,CIVIL,7.91,"Excel, Machine Learning",IBM,10.15,Placed,2026
+STU1133,Student 1133,CIVIL,7.54,"AutoCAD, C++, React, AWS",Not Placed,0.0,Not Placed,2026
+STU1134,Student 1134,CSE,9.66,"JavaScript, Excel",Capgemini,7.07,Placed,2025
+STU1135,Student 1135,CSE,9.82,"Python, React",Not Placed,0.0,Not Placed,2022
+STU1136,Student 1136,CSE,7.4,"AutoCAD, AWS, Java",Not Placed,0.0,Not Placed,2023
+STU1137,Student 1137,ISE,6.34,"AutoCAD, AWS, Excel",IBM,11.21,Placed,2026
+STU1138,Student 1138,CIVIL,8.23,"JavaScript, Data Analysis, AWS, React",Tech Mahindra,5.15,Placed,2022
+STU1139,Student 1139,ISE,9.1,Java,Not Placed,0.0,Not Placed,2023
+STU1140,Student 1140,CSE,8.52,Data Analysis,Infosys,7.96,Placed,2025
+STU1141,Student 1141,ISE,6.93,"React, SQL",Capgemini,4.82,Placed,2022
+STU1142,Student 1142,EEE,8.13,"AutoCAD, React, Python, C++",TCS,4.33,Placed,2023
+STU1143,Student 1143,CSE,9.34,"AutoCAD, Java, Python, AWS",Accenture,7.11,Placed,2023
+STU1144,Student 1144,ISE,7.86,"JavaScript, Machine Learning, AutoCAD, AWS",Not Placed,0.0,Not Placed,2026
+STU1145,Student 1145,CSE,6.12,"SQL, Python, Excel",Wipro,4.0,Placed,2023
+STU1146,Student 1146,ECE,7.86,"Data Analysis, React, Excel, AutoCAD",TCS,5.97,Placed,2022
+STU1147,Student 1147,ISE,6.91,React,L&T,8.61,Placed,2026
+STU1148,Student 1148,ECE,8.12,"SQL, AutoCAD, React",Not Placed,0.0,Not Placed,2024
+STU1149,Student 1149,EEE,8.25,"Java, Machine Learning, C++, AWS",Not Placed,0.0,Not Placed,2025
+STU1150,Student 1150,ECE,8.87,Machine Learning,Capgemini,7.17,Placed,2023
+STU1151,Student 1151,CSE,9.15,"AutoCAD, Python, Data Analysis, Excel",Bosch,8.28,Placed,2023
+STU1152,Student 1152,EEE,7.58,"Java, JavaScript, AutoCAD, Excel",Not Placed,0.0,Not Placed,2024
+STU1153,Student 1153,CSE,8.21,"C++, React, AWS, Java",Oracle,9.56,Placed,2022
+STU1154,Student 1154,CSE,6.01,"AutoCAD, Python, Machine Learning, Excel",Not Placed,0.0,Not Placed,2025
+STU1155,Student 1155,EEE,6.5,AWS,Not Placed,0.0,Not Placed,2023
+STU1156,Student 1156,ME,7.98,"C++, Machine Learning, AWS",TCS,5.85,Placed,2023
+STU1157,Student 1157,EEE,5.54,React,Not Placed,0.0,Not Placed,2022
+STU1158,Student 1158,ME,6.87,AutoCAD,Not Placed,0.0,Not Placed,2023
+STU1159,Student 1159,CSE,6.42,"SQL, Excel, C++, AutoCAD",Not Placed,0.0,Not Placed,2023
+STU1160,Student 1160,ISE,6.51,"Machine Learning, SQL, Python",Not Placed,0.0,Not Placed,2025
+STU1161,Student 1161,CSE,5.7,"Java, React, C++",TCS,4.41,Placed,2024
+STU1162,Student 1162,ISE,7.78,AutoCAD,IBM,6.16,Placed,2026
+STU1163,Student 1163,CSE,9.37,"React, AWS, JavaScript",Amazon,20.84,Placed,2024
+STU1164,Student 1164,EEE,8.48,"SQL, AutoCAD, Data Analysis",IBM,6.55,Placed,2023
+STU1165,Student 1165,CSE,5.68,"Data Analysis, C++, Excel",Capgemini,5.09,Placed,2025
+STU1166,Student 1166,CSE,9.06,Python,Cognizant,8.38,Placed,2022
+STU1167,Student 1167,EEE,6.38,"JavaScript, Excel, React",Not Placed,0.0,Not Placed,2023
+STU1168,Student 1168,CSE,8.87,"Excel, React, Python, AutoCAD",IBM,9.08,Placed,2023
+STU1169,Student 1169,ISE,8.95,"AWS, JavaScript, Machine Learning, Python",Tech Mahindra,6.05,Placed,2022
+STU1170,Student 1170,CSE,7.8,"Java, JavaScript, AWS, C++",Not Placed,0.0,Not Placed,2025
+STU1171,Student 1171,EEE,6.83,"JavaScript, Python",Oracle,8.67,Placed,2024
+STU1172,Student 1172,ISE,8.48,"JavaScript, Python, C++",Deloitte,11.68,Placed,2023
+STU1173,Student 1173,ISE,6.76,"Data Analysis, React, Excel, AutoCAD",Deloitte,8.6,Placed,2022
+STU1174,Student 1174,CSE,9.11,"React, AutoCAD, Python, SQL",IBM,8.99,Placed,2024
+STU1175,Student 1175,CIVIL,5.5,"Java, React, SQL, C++",Not Placed,0.0,Not Placed,2024
+STU1176,Student 1176,EEE,5.83,"Data Analysis, Python, Java, Excel",Oracle,14.32,Placed,2023
+STU1177,Student 1177,EEE,8.18,"Machine Learning, Excel",L&T,5.55,Placed,2026
+STU1178,Student 1178,ISE,9.39,"Data Analysis, AWS",Infosys,4.98,Placed,2024
+STU1179,Student 1179,CSE,7.62,C++,Not Placed,0.0,Not Placed,2025
+STU1180,Student 1180,CIVIL,5.55,"SQL, AWS, JavaScript",Not Placed,0.0,Not Placed,2023
+STU1181,Student 1181,CSE,7.98,SQL,Bosch,12.13,Placed,2026
+STU1182,Student 1182,CSE,9.42,"AutoCAD, C++, React, Python",Tech Mahindra,7.3,Placed,2026
+STU1183,Student 1183,EEE,6.15,"Data Analysis, C++, Machine Learning",Not Placed,0.0,Not Placed,2023
+STU1184,Student 1184,ME,6.02,"Excel, AWS, Data Analysis",Not Placed,0.0,Not Placed,2025
+STU1185,Student 1185,ME,6.75,"Java, JavaScript, C++, React",Amazon,20.36,Placed,2025
+STU1186,Student 1186,CIVIL,6.03,"SQL, Data Analysis",Deloitte,6.55,Placed,2026
+STU1187,Student 1187,EEE,6.26,"Java, AutoCAD, Data Analysis",Not Placed,0.0,Not Placed,2026
+STU1188,Student 1188,EEE,7.25,"JavaScript, Excel",Deloitte,12.76,Placed,2022
+STU1189,Student 1189,EEE,6.45,"AutoCAD, Data Analysis",Not Placed,0.0,Not Placed,2025
+STU1190,Student 1190,ECE,5.8,C++,Not Placed,0.0,Not Placed,2022
+STU1191,Student 1191,CIVIL,8.38,Machine Learning,Wipro,6.78,Placed,2024
+STU1192,Student 1192,ECE,7.68,Data Analysis,Capgemini,5.75,Placed,2025
+STU1193,Student 1193,EEE,8.32,"AWS, Excel, Python",Not Placed,0.0,Not Placed,2023
+STU1194,Student 1194,ME,6.67,"AWS, React, Data Analysis, Python",Wipro,7.89,Placed,2022
+STU1195,Student 1195,ISE,8.45,"React, Data Analysis, Python",Not Placed,0.0,Not Placed,2025
+STU1196,Student 1196,EEE,6.73,"SQL, AWS, JavaScript",Not Placed,0.0,Not Placed,2026
+STU1197,Student 1197,EEE,6.2,"Python, AWS, JavaScript, SQL",Not Placed,0.0,Not Placed,2023
+STU1198,Student 1198,CIVIL,6.88,"Data Analysis, Python, AutoCAD, React",Oracle,10.38,Placed,2023
+STU1199,Student 1199,ECE,7.52,"C++, SQL, Machine Learning",Not Placed,0.0,Not Placed,2025
+STU1200,Student 1200,CSE,7.24,Data Analysis,Google,22.55,Placed,2025
+STU1201,Student 1201,CIVIL,5.72,"React, Data Analysis, Excel",IBM,7.79,Placed,2026
+STU1202,Student 1202,ECE,5.68,AutoCAD,Not Placed,0.0,Not Placed,2025
+STU1203,Student 1203,CIVIL,5.88,Excel,Not Placed,0.0,Not Placed,2024
+STU1204,Student 1204,CSE,6.61,JavaScript,Microsoft,21.4,Placed,2026
+STU1205,Student 1205,ECE,5.98,"SQL, Data Analysis",Tech Mahindra,4.0,Placed,2023
+STU1206,Student 1206,ECE,5.86,AutoCAD,Wipro,6.72,Placed,2025
+STU1207,Student 1207,ECE,9.37,"Machine Learning, C++, Data Analysis",Deloitte,13.09,Placed,2025
+STU1208,Student 1208,ISE,8.54,"Data Analysis, SQL, C++",Deloitte,7.01,Placed,2023
+STU1209,Student 1209,ECE,7.31,"React, C++",Google,15.41,Placed,2025
+STU1210,Student 1210,ISE,5.93,"C++, Data Analysis",Not Placed,0.0,Not Placed,2024
+STU1211,Student 1211,EEE,8.67,Machine Learning,Amazon,13.72,Placed,2026
+STU1212,Student 1212,ME,5.97,"SQL, JavaScript, Data Analysis, C++",Wipro,6.34,Placed,2022
+STU1213,Student 1213,ECE,6.86,C++,IBM,8.29,Placed,2025
+STU1214,Student 1214,ME,8.69,"C++, Python, Java",Deloitte,12.16,Placed,2022
+STU1215,Student 1215,CIVIL,9.94,"Java, Excel",Amazon,18.27,Placed,2024
+STU1216,Student 1216,EEE,6.63,"Data Analysis, React",Not Placed,0.0,Not Placed,2023
+STU1217,Student 1217,CIVIL,5.58,AWS,Not Placed,0.0,Not Placed,2022
+STU1218,Student 1218,ME,8.25,"C++, AutoCAD, Java",Not Placed,0.0,Not Placed,2026
+STU1219,Student 1219,ECE,7.69,"AutoCAD, SQL, C++, AWS",Capgemini,5.01,Placed,2025
+STU1220,Student 1220,ISE,7.69,SQL,Not Placed,0.0,Not Placed,2024
+STU1221,Student 1221,ISE,9.88,"AWS, SQL, Excel",Infosys,6.45,Placed,2025
+STU1222,Student 1222,ISE,7.66,"JavaScript, SQL, Excel, Data Analysis",IBM,8.23,Placed,2024
+STU1223,Student 1223,ME,9.26,React,Not Placed,0.0,Not Placed,2023
+STU1224,Student 1224,EEE,6.36,"Python, Java, C++",Not Placed,0.0,Not Placed,2022
+STU1225,Student 1225,CIVIL,7.81,JavaScript,Not Placed,0.0,Not Placed,2022
+STU1226,Student 1226,ISE,7.27,"SQL, Python",Amazon,11.82,Placed,2024
+STU1227,Student 1227,CSE,5.69,"Excel, Data Analysis, React, AutoCAD",Not Placed,0.0,Not Placed,2023
+STU1228,Student 1228,ME,6.12,"AWS, Excel, React, SQL",Not Placed,0.0,Not Placed,2022
+STU1229,Student 1229,ME,9.54,Python,TCS,6.86,Placed,2026
+STU1230,Student 1230,CIVIL,5.63,"Data Analysis, AWS",Not Placed,0.0,Not Placed,2026
+STU1231,Student 1231,ME,7.37,"SQL, Python",Deloitte,7.09,Placed,2025
+STU1232,Student 1232,ECE,6.87,AWS,Not Placed,0.0,Not Placed,2022
+STU1233,Student 1233,CSE,9.31,"Java, Python",Not Placed,0.0,Not Placed,2023
+STU1234,Student 1234,CSE,6.34,"JavaScript, AWS",Oracle,13.61,Placed,2022
+STU1235,Student 1235,ISE,9.31,"AutoCAD, Python",Cognizant,8.87,Placed,2023
+STU1236,Student 1236,ECE,7.04,"JavaScript, Data Analysis",Capgemini,6.05,Placed,2024
+STU1237,Student 1237,CIVIL,8.66,"Machine Learning, AWS",Bosch,5.42,Placed,2022
+STU1238,Student 1238,ISE,9.23,"AWS, JavaScript, Excel",Not Placed,0.0,Not Placed,2025
+STU1239,Student 1239,ME,7.87,"C++, AutoCAD, JavaScript, SQL",Not Placed,0.0,Not Placed,2024
+STU1240,Student 1240,CSE,7.49,"Python, AWS",Capgemini,4.52,Placed,2024
+STU1241,Student 1241,ISE,8.98,Python,Bosch,8.37,Placed,2024
+STU1242,Student 1242,CSE,7.25,"C++, Data Analysis",Not Placed,0.0,Not Placed,2025
+STU1243,Student 1243,EEE,8.14,"Data Analysis, Java, Excel, React",Google,25.03,Placed,2023
+STU1244,Student 1244,CIVIL,8.94,"C++, AWS",Amazon,20.6,Placed,2024
+STU1245,Student 1245,ISE,7.19,Python,L&T,7.1,Placed,2026
+STU1246,Student 1246,CSE,9.32,AutoCAD,Wipro,7.65,Placed,2025
+STU1247,Student 1247,ME,5.88,"SQL, Python",Not Placed,0.0,Not Placed,2023
+STU1248,Student 1248,CIVIL,9.5,SQL,L&T,7.55,Placed,2026
+STU1249,Student 1249,ECE,7.35,"AWS, Data Analysis, Machine Learning",Oracle,14.39,Placed,2024
+STU1250,Student 1250,ME,6.91,"C++, Data Analysis, Machine Learning",Tech Mahindra,4.89,Placed,2022
+STU1251,Student 1251,ISE,8.87,"AWS, Excel, Machine Learning, AutoCAD",Amazon,11.12,Placed,2026
+STU1252,Student 1252,ISE,8.77,"Excel, React",Capgemini,7.54,Placed,2024
+STU1253,Student 1253,CIVIL,6.51,"C++, AutoCAD",Tech Mahindra,6.62,Placed,2023
+STU1254,Student 1254,ME,6.06,"JavaScript, C++, AWS",Infosys,7.67,Placed,2022
+STU1255,Student 1255,ISE,9.48,"SQL, Python",Amazon,20.76,Placed,2022
+STU1256,Student 1256,CSE,5.57,"React, C++",Tech Mahindra,4.79,Placed,2023
+STU1257,Student 1257,ECE,9.57,Machine Learning,Bosch,7.86,Placed,2024
+STU1258,Student 1258,EEE,9.23,"JavaScript, Python, C++, Java",Cognizant,7.26,Placed,2023
+STU1259,Student 1259,ECE,6.2,"Data Analysis, Python, SQL, AWS",Accenture,9.11,Placed,2024
+STU1260,Student 1260,ISE,8.03,"C++, JavaScript",Microsoft,34.66,Placed,2022
+STU1261,Student 1261,CIVIL,6.06,C++,Not Placed,0.0,Not Placed,2024
+STU1262,Student 1262,ISE,8.57,Python,Deloitte,10.77,Placed,2022
+STU1263,Student 1263,EEE,5.63,"AutoCAD, AWS, Python",Cognizant,5.73,Placed,2022
+STU1264,Student 1264,ISE,5.77,"AutoCAD, React",Not Placed,0.0,Not Placed,2023
+STU1265,Student 1265,CSE,8.87,"Data Analysis, AutoCAD, React, SQL",Not Placed,0.0,Not Placed,2025
+STU1266,Student 1266,ME,9.22,"React, JavaScript, AWS, Python",TCS,7.39,Placed,2025
+STU1267,Student 1267,CIVIL,7.56,"Java, Data Analysis",Bosch,8.83,Placed,2026
+STU1268,Student 1268,EEE,8.24,Data Analysis,Amazon,15.16,Placed,2023
+STU1269,Student 1269,ME,7.65,"Data Analysis, Java, Machine Learning",Not Placed,0.0,Not Placed,2024
+STU1270,Student 1270,EEE,8.23,"SQL, Python",Not Placed,0.0,Not Placed,2025
+STU1271,Student 1271,ME,5.52,"JavaScript, Excel",Not Placed,0.0,Not Placed,2025
+STU1272,Student 1272,ME,8.5,Java,Microsoft,15.62,Placed,2023
+STU1273,Student 1273,ME,6.64,"AutoCAD, SQL, Machine Learning, JavaScript",Not Placed,0.0,Not Placed,2022
+STU1274,Student 1274,CSE,9.22,"Excel, Java",Amazon,18.24,Placed,2025
+STU1275,Student 1275,ME,7.32,"AutoCAD, Java",Not Placed,0.0,Not Placed,2026
+STU1276,Student 1276,ME,8.22,"Data Analysis, Python, JavaScript, AutoCAD",Infosys,7.65,Placed,2026
+STU1277,Student 1277,ISE,6.08,Data Analysis,Not Placed,0.0,Not Placed,2023
+STU1278,Student 1278,ISE,6.87,JavaScript,Not Placed,0.0,Not Placed,2024
+STU1279,Student 1279,ECE,7.0,"Machine Learning, C++, Java, Data Analysis",IBM,8.44,Placed,2025
+STU1280,Student 1280,ECE,6.28,React,IBM,7.34,Placed,2024
+STU1281,Student 1281,CIVIL,9.37,"JavaScript, AutoCAD",Google,19.44,Placed,2024
+STU1282,Student 1282,EEE,7.03,"C++, AWS, SQL, Python",Not Placed,0.0,Not Placed,2022
+STU1283,Student 1283,CSE,9.93,"SQL, JavaScript, Excel, Data Analysis",Oracle,11.88,Placed,2026
+STU1284,Student 1284,EEE,6.85,"C++, Java",Oracle,16.55,Placed,2026
+STU1285,Student 1285,ME,6.39,"AutoCAD, JavaScript",L&T,5.9,Placed,2024
+STU1286,Student 1286,ISE,9.36,"Machine Learning, AutoCAD",Bosch,8.33,Placed,2023
+STU1287,Student 1287,EEE,6.82,Data Analysis,Not Placed,0.0,Not Placed,2022
+STU1288,Student 1288,ISE,8.56,"C++, SQL, Data Analysis",Wipro,8.28,Placed,2022
+STU1289,Student 1289,EEE,6.42,"AutoCAD, React",Not Placed,0.0,Not Placed,2024
+STU1290,Student 1290,ME,9.24,"Excel, AWS",L&T,8.71,Placed,2024
+STU1291,Student 1291,EEE,7.37,React,Not Placed,0.0,Not Placed,2025
+STU1292,Student 1292,CIVIL,9.71,AWS,Accenture,6.85,Placed,2022
+STU1293,Student 1293,EEE,6.07,"C++, Data Analysis, AutoCAD",Not Placed,0.0,Not Placed,2025
+STU1294,Student 1294,ME,7.18,AWS,Not Placed,0.0,Not Placed,2022
+STU1295,Student 1295,EEE,9.55,"Python, Data Analysis",TCS,8.15,Placed,2023
+STU1296,Student 1296,ME,7.06,SQL,Google,33.29,Placed,2024
+STU1297,Student 1297,EEE,6.04,SQL,Not Placed,0.0,Not Placed,2023
+STU1298,Student 1298,EEE,9.65,"Machine Learning, Java",Amazon,18.25,Placed,2022
+STU1299,Student 1299,CSE,5.95,"Data Analysis, Machine Learning, Java",Tech Mahindra,4.26,Placed,2025
+STU1300,Student 1300,CIVIL,5.75,"React, Excel, AutoCAD, Python",L&T,7.96,Placed,2022
+STU1301,Student 1301,CSE,6.72,C++,TCS,5.22,Placed,2022
+STU1302,Student 1302,CSE,6.96,AutoCAD,Microsoft,18.57,Placed,2022
+STU1303,Student 1303,ISE,8.89,"Python, Machine Learning, C++, Data Analysis",Tech Mahindra,6.5,Placed,2026
+STU1304,Student 1304,EEE,7.54,"JavaScript, Machine Learning, AutoCAD",Bosch,6.2,Placed,2022
+STU1305,Student 1305,CSE,8.19,"Machine Learning, AWS, C++",TCS,6.81,Placed,2022
+STU1306,Student 1306,ECE,6.95,"React, SQL, AutoCAD",Not Placed,0.0,Not Placed,2026
+STU1307,Student 1307,EEE,7.57,"SQL, JavaScript, AutoCAD, AWS",Capgemini,5.14,Placed,2022
+STU1308,Student 1308,ME,9.19,"SQL, React, C++",Accenture,7.17,Placed,2025
+STU1309,Student 1309,ME,6.71,"AutoCAD, JavaScript, Machine Learning, Data Analysis",Not Placed,0.0,Not Placed,2023
+STU1310,Student 1310,EEE,6.45,"AutoCAD, SQL",Tech Mahindra,4.23,Placed,2024
+STU1311,Student 1311,ME,6.74,"Excel, AutoCAD, SQL",Not Placed,0.0,Not Placed,2022
+STU1312,Student 1312,EEE,7.92,AWS,Microsoft,23.11,Placed,2024
+STU1313,Student 1313,EEE,6.12,"AWS, SQL, Machine Learning",Not Placed,0.0,Not Placed,2025
+STU1314,Student 1314,ME,7.61,"SQL, C++",IBM,9.02,Placed,2026
+STU1315,Student 1315,ME,5.93,"Java, React, JavaScript, Machine Learning",Cognizant,8.55,Placed,2026
+STU1316,Student 1316,ME,8.16,Machine Learning,Deloitte,7.54,Placed,2023
+STU1317,Student 1317,ECE,5.63,"Data Analysis, JavaScript",Not Placed,0.0,Not Placed,2023
+STU1318,Student 1318,ME,5.72,Data Analysis,Not Placed,0.0,Not Placed,2024
+STU1319,Student 1319,ECE,8.35,"Python, Java, AutoCAD, AWS",Bosch,6.07,Placed,2026
+STU1320,Student 1320,ISE,6.9,C++,Not Placed,0.0,Not Placed,2024
+STU1321,Student 1321,CIVIL,9.14,"C++, Machine Learning, React, Data Analysis",Tech Mahindra,5.71,Placed,2025
+STU1322,Student 1322,CSE,5.58,"AutoCAD, Java, C++",Not Placed,0.0,Not Placed,2022
+STU1323,Student 1323,ISE,7.91,"AWS, AutoCAD",Bosch,11.1,Placed,2025
+STU1324,Student 1324,ISE,7.27,"C++, React, Machine Learning, Java",Infosys,5.48,Placed,2025
+STU1325,Student 1325,ECE,5.64,"Excel, Python, JavaScript, Data Analysis",Not Placed,0.0,Not Placed,2024
+STU1326,Student 1326,ME,5.71,"React, Python, Machine Learning",Not Placed,0.0,Not Placed,2022
+STU1327,Student 1327,CSE,7.34,"SQL, Excel, AWS",Capgemini,6.32,Placed,2024
+STU1328,Student 1328,EEE,6.58,AutoCAD,Amazon,19.55,Placed,2025
+STU1329,Student 1329,ECE,6.96,C++,Not Placed,0.0,Not Placed,2023
+STU1330,Student 1330,ME,7.5,"Java, JavaScript, AWS, SQL",Not Placed,0.0,Not Placed,2025
+STU1331,Student 1331,ECE,8.68,"Data Analysis, Excel",Tech Mahindra,8.01,Placed,2026
+STU1332,Student 1332,CSE,9.47,"C++, React",Not Placed,0.0,Not Placed,2023
+STU1333,Student 1333,EEE,6.44,C++,Cognizant,4.74,Placed,2023
+STU1334,Student 1334,CIVIL,9.21,"React, JavaScript, AWS",Not Placed,0.0,Not Placed,2025
+STU1335,Student 1335,ECE,7.85,"Java, SQL, C++, Data Analysis",Capgemini,8.14,Placed,2022
+STU1336,Student 1336,ECE,9.18,"Python, React, SQL",TCS,7.67,Placed,2026
+STU1337,Student 1337,EEE,8.28,"JavaScript, SQL, Machine Learning, AutoCAD",Amazon,18.53,Placed,2026
+STU1338,Student 1338,ISE,9.83,"Data Analysis, JavaScript",Google,24.35,Placed,2022
+STU1339,Student 1339,ECE,7.28,"Excel, Python, React",Accenture,8.38,Placed,2026
+STU1340,Student 1340,EEE,5.66,"Machine Learning, AutoCAD",Not Placed,0.0,Not Placed,2026
+STU1341,Student 1341,CIVIL,6.49,SQL,Deloitte,10.26,Placed,2025
+STU1342,Student 1342,ISE,8.79,"Python, JavaScript, Excel, AutoCAD",Not Placed,0.0,Not Placed,2025
+STU1343,Student 1343,ME,7.14,"Machine Learning, Data Analysis, JavaScript",Not Placed,0.0,Not Placed,2025
+STU1344,Student 1344,ME,9.76,"Java, AWS, C++, Excel",TCS,6.2,Placed,2024
+STU1345,Student 1345,CIVIL,9.58,"C++, Java",Tech Mahindra,8.4,Placed,2026
+STU1346,Student 1346,CSE,6.79,"Machine Learning, AutoCAD",Not Placed,0.0,Not Placed,2025
+STU1347,Student 1347,ECE,9.6,"C++, Data Analysis",IBM,10.43,Placed,2023
+STU1348,Student 1348,CIVIL,7.16,"Machine Learning, AutoCAD, SQL, Java",Not Placed,0.0,Not Placed,2026
+STU1349,Student 1349,ISE,8.33,Excel,Oracle,12.76,Placed,2023
+STU1350,Student 1350,CIVIL,8.51,"Java, Excel, AWS, Python",Amazon,20.18,Placed,2024
+STU1351,Student 1351,ECE,5.92,"SQL, Excel, AutoCAD",Not Placed,0.0,Not Placed,2023
+STU1352,Student 1352,ECE,7.47,"React, Excel",Accenture,9.26,Placed,2024
+STU1353,Student 1353,ISE,6.45,"C++, Java, SQL",Not Placed,0.0,Not Placed,2026
+STU1354,Student 1354,CSE,8.25,"Python, C++",Not Placed,0.0,Not Placed,2024
+STU1355,Student 1355,CIVIL,6.06,"JavaScript, SQL, React",Not Placed,0.0,Not Placed,2022
+STU1356,Student 1356,ECE,8.6,"Java, AWS",Microsoft,29.69,Placed,2023
+STU1357,Student 1357,ISE,7.57,"Java, JavaScript, AutoCAD",Google,27.52,Placed,2022
+STU1358,Student 1358,EEE,5.85,"Machine Learning, AWS, Data Analysis, React",Amazon,12.19,Placed,2022
+STU1359,Student 1359,ECE,7.4,"SQL, Excel, JavaScript",Wipro,4.94,Placed,2023
+STU1360,Student 1360,CIVIL,9.08,React,Not Placed,0.0,Not Placed,2023
+STU1361,Student 1361,ME,9.54,JavaScript,Accenture,8.64,Placed,2026
+STU1362,Student 1362,ECE,6.5,"Python, AWS, Data Analysis",Not Placed,0.0,Not Placed,2024
+STU1363,Student 1363,ISE,8.0,"Excel, AutoCAD, C++",TCS,8.24,Placed,2022
+STU1364,Student 1364,ISE,9.79,C++,Oracle,17.66,Placed,2024
+STU1365,Student 1365,CIVIL,6.57,SQL,Not Placed,0.0,Not Placed,2022
+STU1366,Student 1366,ISE,8.54,"JavaScript, Java",Not Placed,0.0,Not Placed,2026
+STU1367,Student 1367,ME,9.56,"React, C++",Google,30.27,Placed,2025
+STU1368,Student 1368,ECE,5.76,"AutoCAD, Python",Google,19.23,Placed,2025
+STU1369,Student 1369,ME,8.11,JavaScript,Oracle,13.88,Placed,2026
+STU1370,Student 1370,EEE,9.43,Data Analysis,Not Placed,0.0,Not Placed,2022
+STU1371,Student 1371,CIVIL,8.97,"AWS, Python",Google,25.26,Placed,2026
+STU1372,Student 1372,ECE,7.52,"Java, Excel, AWS",Not Placed,0.0,Not Placed,2025
+STU1373,Student 1373,CSE,7.0,Java,Not Placed,0.0,Not Placed,2022
+STU1374,Student 1374,CSE,9.81,"Data Analysis, JavaScript, SQL, Excel",Not Placed,0.0,Not Placed,2026
+STU1375,Student 1375,EEE,7.77,"Machine Learning, C++, Data Analysis, Java",Capgemini,8.14,Placed,2022
+STU1376,Student 1376,ME,7.02,"Machine Learning, C++, SQL",Microsoft,22.58,Placed,2025
+STU1377,Student 1377,ISE,9.39,"AutoCAD, C++, JavaScript",Wipro,5.77,Placed,2022
+STU1378,Student 1378,CSE,7.07,"JavaScript, Machine Learning",Not Placed,0.0,Not Placed,2026
+STU1379,Student 1379,ISE,9.61,SQL,TCS,7.37,Placed,2024
+STU1380,Student 1380,ME,6.73,"AutoCAD, Excel, Machine Learning",Not Placed,0.0,Not Placed,2022
+STU1381,Student 1381,CSE,6.77,"Java, AWS, Machine Learning",Google,30.14,Placed,2023
+STU1382,Student 1382,ISE,7.18,JavaScript,Amazon,19.84,Placed,2025
+STU1383,Student 1383,ME,5.66,"C++, JavaScript, AWS",Accenture,5.23,Placed,2022
+STU1384,Student 1384,CSE,7.27,Python,Not Placed,0.0,Not Placed,2026
+STU1385,Student 1385,EEE,7.76,"AWS, Java",Not Placed,0.0,Not Placed,2022
+STU1386,Student 1386,ME,8.81,"Python, SQL, C++",L&T,4.68,Placed,2025
+STU1387,Student 1387,CIVIL,5.7,"Java, Python, Excel, JavaScript",Not Placed,0.0,Not Placed,2022
+STU1388,Student 1388,EEE,9.81,SQL,Capgemini,5.48,Placed,2022
+STU1389,Student 1389,CIVIL,8.78,"Data Analysis, Machine Learning",Amazon,11.36,Placed,2025
+STU1390,Student 1390,ECE,9.52,"Java, Excel, React, Data Analysis",Infosys,6.15,Placed,2024
+STU1391,Student 1391,ME,7.14,"Machine Learning, Python, React",Not Placed,0.0,Not Placed,2023
+STU1392,Student 1392,ECE,5.59,"Data Analysis, SQL",Bosch,9.61,Placed,2026
+STU1393,Student 1393,CIVIL,7.41,Java,Not Placed,0.0,Not Placed,2022
+STU1394,Student 1394,ME,7.45,"Excel, Python",Not Placed,0.0,Not Placed,2025
+STU1395,Student 1395,ME,7.19,"Excel, Python, Java",Not Placed,0.0,Not Placed,2026
+STU1396,Student 1396,ECE,8.22,"Python, AutoCAD, AWS, Excel",Not Placed,0.0,Not Placed,2025
+STU1397,Student 1397,CIVIL,7.41,"Python, Data Analysis, Excel, SQL",Cognizant,8.17,Placed,2025
+STU1398,Student 1398,ME,9.03,"Excel, Java, Machine Learning",Oracle,17.29,Placed,2022
+STU1399,Student 1399,EEE,9.25,"AutoCAD, JavaScript, Data Analysis",Cognizant,5.99,Placed,2026
+STU1400,Student 1400,CSE,9.54,"Python, Machine Learning, AWS",Tech Mahindra,5.99,Placed,2026
+STU1401,Student 1401,ME,8.47,"Data Analysis, JavaScript",Not Placed,0.0,Not Placed,2025
+STU1402,Student 1402,CSE,6.66,Excel,Not Placed,0.0,Not Placed,2022
+STU1403,Student 1403,ISE,9.26,"JavaScript, Java, AWS, C++",Cognizant,7.96,Placed,2026
+STU1404,Student 1404,CSE,7.64,"Java, JavaScript, AutoCAD, React",TCS,6.05,Placed,2022
+STU1405,Student 1405,CSE,7.93,"SQL, Data Analysis, AutoCAD, Machine Learning",Tech Mahindra,5.99,Placed,2024
+STU1406,Student 1406,CIVIL,6.89,"Machine Learning, C++, Data Analysis",Google,31.97,Placed,2024
+STU1407,Student 1407,ECE,7.76,"JavaScript, SQL",Wipro,6.48,Placed,2023
+STU1408,Student 1408,ME,6.22,"JavaScript, C++, Machine Learning, React",Not Placed,0.0,Not Placed,2024
+STU1409,Student 1409,ME,6.02,"C++, Python, SQL, React",Not Placed,0.0,Not Placed,2023
+STU1410,Student 1410,ECE,8.59,"SQL, Python, Machine Learning, C++",Wipro,5.99,Placed,2023
+STU1411,Student 1411,CIVIL,7.2,Python,Tech Mahindra,7.18,Placed,2026
+STU1412,Student 1412,ECE,9.87,"Excel, Python, AutoCAD",Not Placed,0.0,Not Placed,2025
+STU1413,Student 1413,CSE,8.82,"SQL, JavaScript",Bosch,7.72,Placed,2026
+STU1414,Student 1414,CSE,7.73,"React, Machine Learning, AWS",Not Placed,0.0,Not Placed,2025
+STU1415,Student 1415,EEE,9.79,AutoCAD,Google,20.95,Placed,2024
+STU1416,Student 1416,ECE,6.53,"Excel, Python",Not Placed,0.0,Not Placed,2022
+STU1417,Student 1417,ECE,6.02,"Python, AWS, Java",IBM,10.0,Placed,2023
+STU1418,Student 1418,CIVIL,8.36,"SQL, Data Analysis, JavaScript",TCS,4.66,Placed,2026
+STU1419,Student 1419,ISE,8.06,Python,TCS,7.46,Placed,2024
+STU1420,Student 1420,ECE,6.1,"JavaScript, C++, AWS",Deloitte,10.51,Placed,2022
+STU1421,Student 1421,ISE,7.85,"SQL, React, Java, C++",Not Placed,0.0,Not Placed,2025
+STU1422,Student 1422,CSE,6.32,React,Not Placed,0.0,Not Placed,2026
+STU1423,Student 1423,ME,7.83,"Python, C++, JavaScript, Java",IBM,12.11,Placed,2023
+STU1424,Student 1424,ME,6.01,"Python, JavaScript, Java, SQL",Not Placed,0.0,Not Placed,2022
+STU1425,Student 1425,ME,8.86,Machine Learning,Not Placed,0.0,Not Placed,2023
+STU1426,Student 1426,ISE,9.46,"JavaScript, AWS",Not Placed,0.0,Not Placed,2024
+STU1427,Student 1427,CSE,7.08,"AutoCAD, Excel",Not Placed,0.0,Not Placed,2024
+STU1428,Student 1428,CSE,7.93,Java,Bosch,7.16,Placed,2025
+STU1429,Student 1429,ISE,8.43,"SQL, Excel",Capgemini,6.53,Placed,2025
+STU1430,Student 1430,EEE,7.93,"C++, Java, AWS, JavaScript",Not Placed,0.0,Not Placed,2026
+STU1431,Student 1431,ISE,9.29,"React, AWS, Python",Bosch,8.13,Placed,2022
+STU1432,Student 1432,EEE,7.94,C++,Not Placed,0.0,Not Placed,2026
+STU1433,Student 1433,ME,6.93,"Data Analysis, Python, Java, AWS",Not Placed,0.0,Not Placed,2025
+STU1434,Student 1434,CIVIL,8.06,"AWS, SQL, AutoCAD, Excel",Not Placed,0.0,Not Placed,2025
+STU1435,Student 1435,ECE,9.63,"C++, Machine Learning, Excel",Amazon,22.26,Placed,2026
+STU1436,Student 1436,CSE,5.92,"Excel, Java",Deloitte,8.34,Placed,2022
+STU1437,Student 1437,CSE,8.18,"Machine Learning, C++, Excel, JavaScript",Capgemini,7.7,Placed,2026
+STU1438,Student 1438,CIVIL,7.96,"SQL, Python",Not Placed,0.0,Not Placed,2025
+STU1439,Student 1439,CSE,9.29,"Java, Python, Data Analysis",Capgemini,7.92,Placed,2022
+STU1440,Student 1440,ISE,8.53,C++,Bosch,6.68,Placed,2023
+STU1441,Student 1441,ECE,5.89,"Data Analysis, JavaScript, AWS",Wipro,6.98,Placed,2024
+STU1442,Student 1442,ISE,9.24,"Python, AWS",Oracle,12.07,Placed,2026
+STU1443,Student 1443,EEE,6.4,"Data Analysis, React, Excel",Not Placed,0.0,Not Placed,2024
+STU1444,Student 1444,CIVIL,6.15,"React, Java, AutoCAD",Not Placed,0.0,Not Placed,2023
+STU1445,Student 1445,ME,8.38,"Java, AutoCAD, Data Analysis",Bosch,8.46,Placed,2026
+STU1446,Student 1446,CSE,8.78,"React, Python",Not Placed,0.0,Not Placed,2026
+STU1447,Student 1447,CIVIL,7.35,"Python, Machine Learning",Microsoft,22.5,Placed,2023
+STU1448,Student 1448,CSE,7.01,"Data Analysis, JavaScript",Not Placed,0.0,Not Placed,2022
+STU1449,Student 1449,EEE,7.74,"AWS, AutoCAD, React",Oracle,17.62,Placed,2022
+STU1450,Student 1450,CSE,6.03,"C++, Java, Data Analysis",Not Placed,0.0,Not Placed,2025
+STU1451,Student 1451,ISE,9.87,Machine Learning,TCS,4.74,Placed,2025
+STU1452,Student 1452,ME,8.24,"Java, React",Not Placed,0.0,Not Placed,2022
+STU1453,Student 1453,ECE,6.71,Data Analysis,L&T,4.07,Placed,2025
+STU1454,Student 1454,ISE,8.4,"AutoCAD, Python, Data Analysis",Capgemini,6.85,Placed,2024
+STU1455,Student 1455,CIVIL,6.31,"AutoCAD, Machine Learning",Not Placed,0.0,Not Placed,2022
+STU1456,Student 1456,ISE,7.41,"C++, AWS, Data Analysis",Google,35.05,Placed,2025
+STU1457,Student 1457,CSE,8.26,"Java, Excel, React",Infosys,6.67,Placed,2026
+STU1458,Student 1458,ME,6.07,"Data Analysis, JavaScript",Not Placed,0.0,Not Placed,2025
+STU1459,Student 1459,ECE,7.11,"Machine Learning, SQL, Python",Not Placed,0.0,Not Placed,2023
+STU1460,Student 1460,CSE,7.26,"Excel, Machine Learning, Data Analysis, JavaScript",Not Placed,0.0,Not Placed,2025
+STU1461,Student 1461,ME,8.62,"Data Analysis, AutoCAD, Java",Oracle,9.07,Placed,2026
+STU1462,Student 1462,ISE,7.83,React,Not Placed,0.0,Not Placed,2025
+STU1463,Student 1463,CSE,8.19,"SQL, AutoCAD, Machine Learning, AWS",Cognizant,7.93,Placed,2022
+STU1464,Student 1464,ME,9.35,"React, Machine Learning, AWS, AutoCAD",Tech Mahindra,6.35,Placed,2023
+STU1465,Student 1465,ME,9.46,AutoCAD,Bosch,6.42,Placed,2022
+STU1466,Student 1466,ISE,6.31,"Data Analysis, Excel, SQL",Accenture,7.12,Placed,2024
+STU1467,Student 1467,ME,8.22,"AWS, C++, Python, React",Not Placed,0.0,Not Placed,2024
+STU1468,Student 1468,ISE,8.67,"C++, Excel",Not Placed,0.0,Not Placed,2026
+STU1469,Student 1469,ECE,8.46,AWS,TCS,4.98,Placed,2024
+STU1470,Student 1470,CSE,7.39,Data Analysis,Not Placed,0.0,Not Placed,2024
+STU1471,Student 1471,ECE,7.81,"Python, Excel, Machine Learning, React",Not Placed,0.0,Not Placed,2024
+STU1472,Student 1472,ME,8.01,"C++, Python",Deloitte,12.86,Placed,2022
+STU1473,Student 1473,CIVIL,6.69,AWS,Microsoft,27.12,Placed,2023
+STU1474,Student 1474,ISE,7.13,"AutoCAD, Java, Data Analysis",Not Placed,0.0,Not Placed,2026
+STU1475,Student 1475,ECE,6.48,"JavaScript, Python",Amazon,11.9,Placed,2024
+STU1476,Student 1476,CSE,7.74,"AWS, AutoCAD, SQL",TCS,4.44,Placed,2026
+STU1477,Student 1477,CIVIL,6.47,"AutoCAD, SQL",Microsoft,33.09,Placed,2024
+STU1478,Student 1478,CIVIL,6.18,"C++, React, Java, JavaScript",Deloitte,10.65,Placed,2025
+STU1479,Student 1479,ME,6.41,Machine Learning,Bosch,7.86,Placed,2025
+STU1480,Student 1480,ECE,8.54,SQL,Tech Mahindra,8.02,Placed,2026
+STU1481,Student 1481,ISE,5.68,React,Not Placed,0.0,Not Placed,2022
+STU1482,Student 1482,ISE,6.55,"AWS, Machine Learning, AutoCAD, Excel",L&T,7.85,Placed,2023
+STU1483,Student 1483,ISE,9.9,"C++, Excel, Python",Wipro,8.31,Placed,2023
+STU1484,Student 1484,EEE,6.87,"C++, AWS, JavaScript, React",Cognizant,5.69,Placed,2024
+STU1485,Student 1485,ME,5.78,React,Not Placed,0.0,Not Placed,2026
+STU1486,Student 1486,ECE,9.34,React,Not Placed,0.0,Not Placed,2025
+STU1487,Student 1487,EEE,5.65,"Java, AutoCAD, SQL",Not Placed,0.0,Not Placed,2025
+STU1488,Student 1488,ISE,7.04,"AWS, Machine Learning, SQL",Bosch,6.61,Placed,2023
+STU1489,Student 1489,ECE,8.59,"C++, SQL",Accenture,10.35,Placed,2025
+STU1490,Student 1490,CSE,6.48,"SQL, AWS",IBM,6.08,Placed,2026
+STU1491,Student 1491,EEE,8.28,"Python, Java, React, Excel",Oracle,11.79,Placed,2022
+STU1492,Student 1492,CSE,9.86,"JavaScript, C++, Python",TCS,8.48,Placed,2024
+STU1493,Student 1493,CSE,9.36,"React, SQL",Tech Mahindra,6.89,Placed,2025
+STU1494,Student 1494,ME,5.8,"React, C++",Not Placed,0.0,Not Placed,2022
+STU1495,Student 1495,CIVIL,8.69,"AutoCAD, Data Analysis",TCS,6.72,Placed,2024
+STU1496,Student 1496,EEE,5.73,Data Analysis,Accenture,8.55,Placed,2023
+STU1497,Student 1497,ECE,8.8,Machine Learning,Not Placed,0.0,Not Placed,2023
+STU1498,Student 1498,EEE,8.1,"AWS, Machine Learning, Java",Capgemini,5.5,Placed,2025
+STU1499,Student 1499,ISE,7.94,"SQL, Java",Oracle,13.45,Placed,2022
+STU1500,Student 1500,ECE,8.33,"Java, AutoCAD, React",Microsoft,32.08,Placed,2024

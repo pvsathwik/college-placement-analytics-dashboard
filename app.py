@@ -207,9 +207,6 @@ def load_data():
 
     return data
 
-    data = pd.read_csv("data/placement_data.csv")
-    return data
-
 df = load_data()
 
 # ------------------------------------------------------------
@@ -1335,7 +1332,7 @@ elif page == "📊 Dashboard":
 
     # Salary distribution
     fig_salary = px.histogram(
-        filtered_df,
+        salary_df,
         x="Salary_LPA",
         nbins=20,
         title="Salary Distribution"

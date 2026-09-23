@@ -1,11 +1,9 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from database import get_student
 
 from io import BytesIO
 from reportlab.lib.pagesizes import A4
-from reportlab.pdfgen import canvas
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle
 from reportlab.lib import colors
 from reportlab.lib.styles import getSampleStyleSheet
@@ -208,143 +206,6 @@ def load_data():
     conn.close()
 
     return data
-
-    doc = SimpleDocTemplate(
-        buffer,
-        pagesize=A4,
-        rightMargin=40,
-        leftMargin=40,
-        topMargin=40,
-        bottomMargin=40
-    )
-
-    styles = getSampleStyleSheet()
-    story = []
-
-    # Title
-    story.append(
-        Paragraph(
-            "College Placement Analytics Report",
-            styles["Title"]
-        )
-    )
-
-    story.append(
-        Paragraph(
-            "Placement Pulse",
-            styles["Heading2"]
-        )
-    )
-
-    story.append(Spacer(1, 15))
-
-    # Basic statistics
-    total_students = len(df)
-    placed_students = len(
-        df[df["Placement_Status"] == "Placed"]
-    )
-    placement_rate = (
-        placed_students / total_students * 100
-        if total_students > 0 else 0
-    )
-
-    placed_df = df[
-        df["Placement_Status"] == "Placed"
-    ]
-
-    average_salary = (
-        placed_df["Salary_LPA"].mean()
-        if not placed_df.empty else 0
-    )
-
-    highest_package = (
-        placed_df["Salary_LPA"].max()
-        if not placed_df.empty else 0
-    )
-
-    story.append(
-        Paragraph("Placement Summary", styles["Heading2"])
-    )
-
-    summary_data = [
-        ["Metric", "Value"],
-        ["Total Students", str(total_students)],
-        ["Placed Students", str(placed_students)],
-        ["Placement Rate", f"{placement_rate:.2f}%"],
-        ["Average Salary", f"{average_salary:.2f} LPA"],
-        ["Highest Package", f"{highest_package:.2f} LPA"],
-    ]
-
-    summary_table = Table(summary_data, colWidths=[250, 180])
-
-    summary_table.setStyle(
-        TableStyle([
-            ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#232733")),
-            ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
-            ("GRID", (0, 0), (-1, -1), 0.5, colors.grey),
-            ("PADDING", (0, 0), (-1, -1), 8),
-        ])
-    )
-
-    story.append(summary_table)
-    story.append(Spacer(1, 20))
-
-    # Branch report
-    story.append(
-        Paragraph("Branch-wise Placement", styles["Heading2"])
-    )
-
-    branch_data = [
-        ["Branch", "Students", "Placed", "Rate"]
-    ]
-
-    for branch in sorted(df["Branch"].dropna().unique()):
-        branch_df = df[df["Branch"] == branch]
-
-        total = len(branch_df)
-        placed = len(
-            branch_df[
-                branch_df["Placement_Status"] == "Placed"
-            ]
-        )
-
-        rate = placed / total * 100 if total > 0 else 0
-
-        branch_data.append([
-            str(branch),
-            str(total),
-            str(placed),
-            f"{rate:.2f}%"
-        ])
-
-    branch_table = Table(
-        branch_data,
-        colWidths=[130, 100, 100, 100]
-    )
-
-    branch_table.setStyle(
-        TableStyle([
-            ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#232733")),
-            ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
-            ("GRID", (0, 0), (-1, -1), 0.5, colors.grey),
-            ("PADDING", (0, 0), (-1, -1), 8),
-        ])
-    )
-
-    story.append(branch_table)
-    story.append(Spacer(1, 20))
-
-    story.append(
-        Paragraph(
-            "This report is generated from the placement dataset available in Placement Pulse.",
-            styles["Normal"]
-        )
-    )
-
-    doc.build(story)
-
-    buffer.seek(0)
-    return buffer
 
     data = pd.read_csv("data/placement_data.csv")
     return data
@@ -1377,48 +1238,7 @@ elif page == "📊 Dashboard":
         use_container_width=True,
         hide_index=True
     )
-    st.divider()
 
-    st.subheader("🛠️ Skills Analysis")
-
-    skills_analytics = skill_analysis.copy()
-    skills_analytics.columns = [
-        "Skill",
-        "Placed_Students"
-    ]
-
-    skills_analytics = skills_analytics.head(10)
-
-    fig_skills_analytics = px.bar(
-        skills_analytics,
-        x="Placed_Students",
-        y="Skill",
-        orientation="h",
-        text="Placed_Students",
-        title="Top 10 Skills Among Placed Students"
-    )
-
-    fig_skills_analytics.update_traces(
-        textposition="outside"
-    )
-
-    fig_skills_analytics.update_layout(
-        xaxis_title="Number of Placed Students",
-        yaxis_title="Skill"
-    )
-
-    st.plotly_chart(
-    fig_skills_analytics,
-    use_container_width=True,
-    key="skills_analytics_chart"
-    )
-    
-
-    st.dataframe(
-        skills_analytics,
-        use_container_width=True,
-        hide_index=True
-    )
     st.divider()
 
     st.subheader("📅 Year-wise Salary Trend")
@@ -1484,9 +1304,13 @@ elif page == "📊 Dashboard":
     st.subheader("💰 Salary / Package Analysis")
 
     # Salary statistics
-    average_salary = filtered_df["Salary_LPA"].mean()
-    highest_salary = filtered_df["Salary_LPA"].max()
-    lowest_salary = filtered_df["Salary_LPA"].min()
+    salary_df = filtered_df[
+    filtered_df["Placement_Status"] == "Placed"
+]
+
+    average_salary = salary_df["Salary_LPA"].mean() if not salary_df.empty else 0
+    highest_salary = salary_df["Salary_LPA"].max() if not salary_df.empty else 0
+    lowest_salary = salary_df["Salary_LPA"].min() if not salary_df.empty else 0
 
     # Salary KPI cards
     salary_col1, salary_col2, salary_col3 = st.columns(3)
@@ -2006,9 +1830,6 @@ elif page == "📈 Analytics":
 # DATA PAGE
 # ------------------------------------------------------------
 
-# ------------------------------------------------------------
-# DATA PAGE
-# ------------------------------------------------------------
 
 elif page == "📁 Data":
 
@@ -2308,39 +2129,19 @@ elif page == "📋 Reports":
     file_name="placement_report.csv",
     mime="text/csv"
     )
+    
     pdf_file = create_pdf_report(df)
 
-from io import BytesIO
-from reportlab.lib.pagesizes import A4
-from reportlab.pdfgen import canvas
-
-pdf_buffer = BytesIO()
-
-c = canvas.Canvas(pdf_buffer, pagesize=A4)
-
-c.setFont("Helvetica-Bold", 18)
-c.drawString(50, 800, "College Placement Analytics Report")
-
-c.setFont("Helvetica", 11)
-c.drawString(50, 770, "Placement Analytics Dashboard")
-
-c.drawString(50, 740, "This report contains the placement analysis generated from the dashboard.")
-
-c.save()
-
-pdf_buffer.seek(0)
-pdf_file = pdf_buffer.getvalue()
-
-st.download_button(
-    label="📄 Download PDF Report",
-    data=pdf_file,
-    file_name="placement_report.pdf",
-    mime="application/pdf"
-)
-st.success(
-        "✅ Placement report generated successfully!"
+    st.download_button(
+        label="📄 Download PDF Report",
+        data=pdf_file,
+        file_name="placement_report.pdf",
+        mime="application/pdf"
     )
 
+    st.success(
+        "✅ Placement report generated successfully!"
+    )
 # ------------------------------------------------------------
 # FOOTER
 # ------------------------------------------------------------
